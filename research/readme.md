@@ -1,6 +1,6 @@
 
 
-# this file is to express relevant information.
+# this file is to express academic information.
 
 
 
