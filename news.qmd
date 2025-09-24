@@ -1,0 +1,32 @@
+---
+title: "News"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+
+本页面展示团队的新闻，包括科研进展、学术会议和团队动态。
+
+
+## 科研进展
+
+- [2025-7-9] 祝贺团队成员武丽敏在JCR二区期刊 Journal of Applied Economics 发表论文。论文题目：The impact of green finance on sustainable development: an investigation into national ESG performance| [链接](https://doi.org/10.1080/15140326.2025.2528672)
+- [2025-4-15] 祝贺团队指导的本科生周浩在JCR一区期刊 Energy Strategy Reviews 发表论文。论文题目：Does a bank-dominated financial system benefit the development of renewable energy in developing countries? The case of China
+- [2025-3-15] 祝贺团队成员张鑫语在中科院一区期刊 Energy 发表论文。论文题目：Digitalization and renewable energy development: Analysis based on cross-country panel data
+- [2024-12-30] 祝贺团队指导的本科生牛丙成在中科院一区期刊 Oeconomia Copernicana 发表论文。论文题目：The impact of ICT development on ESG performance: International evidence
+- [2024-9-23] 祝贺团队成员祝文慧在JCR一区期刊 Emerging Markets Finance and Trade 发表论文。论文题目：How Does Digital Finance Stimulate Urban Innovation in China? The Perspective of Human Capital and Consumption Upgrading
+
+
+
+## 学术会议
+
+- 团队参加“一带一路”论坛——数字时代的能源转型国际学术会议 ![会议图片](/images/202509XUT.png )
+    
+## 团队动态
+
+- [2025-5-26] 祝贺团队成员张鑫语和武丽敏顺利通过硕士论文答辩！![合影](/images/202506.png )
+    
+
+
+
