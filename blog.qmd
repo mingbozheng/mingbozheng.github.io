@@ -11,4 +11,6 @@ editor:
 
 ## 团队公共品
 
-  - 经管类期刊目录 [查看 PDF 文件](docs/paperlist2024.pdf)
+  - 经管类期刊目录 [-PDF-](/paperlist2024.pdf)
+  - 基础文献清单 [-link-](/literlist.html)
+

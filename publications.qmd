@@ -5,22 +5,22 @@ editor:
     wrap: 72
 ---
 
-## 论文
+## 英文论文
 
-- Zheng, M., Wu, L., Feng, G. F., & Chang, C. P. (2025). The impact of green finance on sustainable development: an investigation into national ESG performance. Journal of - Applied Economics, 28(1), 2528672.
-- Zheng, M., & Zhou, H. (2025). Does a bank-dominated financial system benefit the development of renewable energy in developing countries? The case of China. Energy Strategy - Reviews, 59, 101715.
+- Zheng, M., Wu, L., Feng, G. F., & Chang, C. P. (2025). The impact of green finance on sustainable development: an investigation into national ESG performance. Journal of  Applied Economics, 28(1), 2528672.
+- Zheng, M., & Zhou, H. (2025). Does a bank-dominated financial system benefit the development of renewable energy in developing countries? The case of China. Energy Strategy Reviews, 59, 101715.
 - Zheng, M., & Zhang, X. (2025). Digitalization and renewable energy development: Analysis based on cross-country panel data. Energy, 319, 135077.
 - Xiang, S., Zheng, M., Yang, H., He, Y., & Chang, C. P. (2025). Do shocks to electricity consumption generate persistent effect? Evidence from Hunan Province in China. Energy - Strategy Reviews, 57, 101636.
-- Li, S., Si, H., Liu, C., Gao, B., & Zheng, M. * (2025). Financialization and Stock Volatility of Low-/High-Tech Manufacturing Firms in China: The Moderating Role of M&A. - Emerging Markets Finance and Trade, 61(4), 837-857.
-- Zhu, W., Liu, Y. Q., Niu, B., Zhu, Y., & Zheng, M. * (2025). How Does Digital Finance Stimulate Urban Innovation in China? The Perspective of Human Capital and Consumption - Upgrading. Emerging Markets Finance and Trade, 61(4), 805-819.
+- Li, S., Si, H., Liu, C., Gao, B., & Zheng, M. * (2025). Financialization and Stock Volatility of Low-/High-Tech Manufacturing Firms in China: The Moderating Role of M&A. -Emerging Markets Finance and Trade, 61(4), 837-857.
+- Zhu, W., Liu, Y. Q., Niu, B., Zhu, Y., & Zheng, M. * (2025). How Does Digital Finance Stimulate Urban Innovation in China? The Perspective of Human Capital and Consumption Upgrading. Emerging Markets Finance and Trade, 61(4), 805-819.
 - Zhou, H., & Zheng, M. * (2024). Foreign direct investment and green innovation in China: An examination of quantile regression. Innovation and Green Development, 3(3), 100150.
 - Liu, Y., Zheng, M. *, & Shum, W. Y. (2024). On the linkages between digital finance and real economy in China: A cointegration analysis. Innovation and Green Development, 3(1), - 100109.
 - Zheng, M., & Wong, C. Y. (2024). The impact of digital economy on renewable energy development in China. Innovation and Green Development, 3(1), 100094.
 - Zheng, M., Niu, B., Yang, H. C., & Chang, C. P. (2024). The impact of ICT development on ESG performance: International evidence. Oeconomia Copernicana, 15(4), 1427-1463.
-- Xu, X., & Zheng, M. * (2023). High-speed rail construction and urban innovation disparity in China: the role of internet development, Economic Change and Restructuring, 56, - 3567–3599.
+- Xu, X., & Zheng, M. * (2023). High-speed rail construction and urban innovation disparity in China: the role of internet development, Economic Change and Restructuring, 56,  3567–3599.
 - Zheng, M., Feng, G. F., & Chang, C. P. (2023). Is green finance capable of promoting renewable energy technology? Empirical investigation for 64 economies worldwide. Oeconomia - Copernicana, 14(2), 483-510.
 - Yang, Q., Zheng, M. *, & Wang, Y. (2023). The role of CBDC in green finance and sustainable development. Emerging Markets Finance and Trade, 59(15), 4158-4173.
-- Qiu, Y., Wang, Z., & Zheng, M. * (2023). Can digital finance improve corporate environmental performance? Evidence from heavy polluting listed companies in China. Emerging - Markets Finance and Trade, 59(14), 4054-4074.
+- Qiu, Y., Wang, Z., & Zheng, M. * (2023). Can digital finance improve corporate environmental performance? Evidence from heavy polluting listed companies in China. Emerging  Markets Finance and Trade, 59(14), 4054-4074.
 - Zheng, M., Feng, G. F., Zhao, X., & Chang, C. P. (2023). The transaction behavior of cryptocurrency and electricity consumption. Financial Innovation, 9(1), 44.
 - Zheng, M., Feng, G. F., Wang, Q. J., & Chang, C. P. (2023). Financial globalization and technological innovation: International evidence. Economic Systems, 47(1), 101048.
 - Zheng, M., Du, Q., & Wang, Q. J. (2023). Nexus between green finance and renewable energy development in China. Emerging Markets Finance and Trade, 59(4), 1205–1218.
@@ -34,7 +34,7 @@ editor:
 - Feng, G. F., & Zheng, M. * (2022). Economic policy uncertainty and renewable energy innovation: International evidence. Innovation and Green Development, 1(2), 100010.
 - Chen, D., Hu, H., & Zheng, M. B. (2021). How Does Energy Production Respond to the COVID-19 Pandemic? Evidence From China. Asian Economics Letters, 2(2), 22324.
 - Zheng, M., Feng, G. F., Jang, C. L., & Chang, C. P. (2021). Terrorism and green innovation in renewable energy. Energy Economics, 104, 105695.
-- Wang, Y., Zhang, F., Zheng, M., & Chang, C. P. (2021). Innovation’s Spillover Effect in China: Incorporating the Role of Environmental Regulation. Environmental Modeling & - Assessment, 26(5), 695-708.
+- Wang, Y., Zhang, F., Zheng, M., & Chang, C. P. (2021). Innovation’s Spillover Effect in China: Incorporating the Role of Environmental Regulation. Environmental Modeling &  Assessment, 26(5), 695-708.
 - Li, B., Zheng, M., Zhao, X., & Chang, C. P. (2021). An assessment of the effect of partisan ideology on shale gas production and the implications for environmental regulations. - Economic Systems, 45(3), 100907.
 - Wang, H. J., An, K., & Zheng, M. * (2021). Who has done a better job in fighting the COVID-19 epidemic? Left or Right?. Emerging Markets Finance and Trade, 57(8), 2415-2425.
 - Chen, Y. E., Li, C., Chang, C. P., & Zheng, M. * (2021). Identifying the influence of natural disasters on technological innovation. Economic Analysis and Policy, 70, 22-36.
@@ -44,11 +44,15 @@ editor:
 - Li, B., Chang, C. P., & Zheng, M. * (2021). Assessment of innovation and foreign direct investment: An investigation of OECD countries. Pacific Economic Review, 26(3), 392-403.
 - Wen, J., Zheng, M., Feng, G. F., Chen, S. W., & Chang, C. P. (2020). Corruption and innovation: linear and nonlinear investigations of OECD countries. The Singapore Economic - Review, 65(01), 103-129.
 - Zheng, M., Feng, G. F., Wen, J., & Chang, C. P. (2020). The influence of FDI on domestic innovation: an investigation using structural breaks. Prague Economic Papers, 29(4), - 403-423.
-- Feng, G. F., Zheng, M., Wen, J., Chang, C. P., & Chen, Y. E. (2019). The assessment of globalization on innovation in Chinese manufacturing firms. Structural Change and - Economic Dynamics, 50, 190-202.
+- Feng, G. F., Zheng, M., Wen, J., Chang, C. P., & Chen, Y. E. (2019). The assessment of globalization on innovation in Chinese manufacturing firms. Structural Change and  Economic Dynamics, 50, 190-202.
 - Zheng, M., Feng, G. F., Feng, S., & Yuan, X. (2019). The road to innovation vs. the role of globalization: A dynamic quantile investigation. Economic Modelling, 83, 65-83.
-- Zheng, M., Chen, Y. E., Feng, G. F., Wen, J., & Chang, C. P. (2019). Divorce and housing price in 31 provinces of China. Bulletin of Monetary Economics and Banking, 21(2), - 161-176.
-- Chang, C. P., Wen, J., Zheng, M., Dong, M., & Hao, Y. (2018). Is higher government efficiency conducive to improving energy use efficiency? Evidence from OECD countries. - Economic Modelling, 72, 65-77.
+- Zheng, M., Chen, Y. E., Feng, G. F., Wen, J., & Chang, C. P. (2019). Divorce and housing price in 31 provinces of China. Bulletin of Monetary Economics and Banking, 21(2),  161-176.
+- Chang, C. P., Wen, J., Zheng, M., Dong, M., & Hao, Y. (2018). Is higher government efficiency conducive to improving energy use efficiency? Evidence from OECD countries.  Economic Modelling, 72, 65-77.
 - Liu, Y., Hu, X., Zhang, Q., & Zheng, M. (2017). Improving agricultural water use efficiency: a quantitative study of Zhangye city using the static CGE model with a CES water− - land resources account. Sustainability, 9(2), 308. 
+
+
+## 中文论文
+
 - 于海云 & 郑明波. (2025). 科技金融会激励中国企业进行绿色创新吗?——基于“促进科技和金融结合试点”政策的证据. 科学学研究, 43 (06), 1237-1249.
 - 李旭东, 郑明波 &  张森. (2024). 竞争政策对企业劳动收入份额的影响机制研究. 软科学, 38 (05), 126-131.
 - 丰若旸,冯根福, 郑明波.(2022).地区战略性新兴产业政策与资本市场资源配置对地区经济增长的影响研究. 西安交通大学学报(社会科学版)(06),64-76.
@@ -58,11 +62,4 @@ editor:
 - 郑明波.(2019).高管海外经历、专业背景与企业技术创新. 中国科技论坛(10),137-144+153.
 - 郑明波.(2019).经济波动对企业研发投入的影响——来自中国上市公司的证据. 江西财经大学学报(05),104-117.
 - 刘宇,周梅芳,郑明波.(2016).财政成本视角下的棉花目标价格改革影响分析——基于CGE模型的测算. 中国农村经济(10),70-81.
-
-## 科研项目
-
-1.	国家自然科学基金青年项目，节能降碳技术空间扩散的传播渠道、隐性壁垒与优化政策研究，项目号72304047，2024-2026，主持
-2.	中央高校基本科研业务费项目，数字经济提升绿色创新的机理与对策研究，项目号300102232609，2022-2024，主持
-3.	中央高校基本科研业务费项目，数字经济与技术创新协同发展的理论构建、实证分析与优化路径研究，项目号300102233619，2023-2025，主持
-4.	教育部人文社会科学研究青年基金西部和边疆地区项目，多维距离视角下数字经济对绿色创新的空间溢出效应研究，项目号22XJC790015，2022-2025，主持
 

@@ -11,17 +11,29 @@ editor:
 
 ## 科研进展
 
-- [2025-7-9] 祝贺团队成员武丽敏在JCR二区期刊 Journal of Applied Economics 发表论文。论文题目：The impact of green finance on sustainable development: an investigation into national ESG performance| [链接](https://doi.org/10.1080/15140326.2025.2528672)
-- [2025-4-15] 祝贺团队指导的本科生周浩在JCR一区期刊 Energy Strategy Reviews 发表论文。论文题目：Does a bank-dominated financial system benefit the development of renewable energy in developing countries? The case of China
-- [2025-3-15] 祝贺团队成员张鑫语在中科院一区期刊 Energy 发表论文。论文题目：Digitalization and renewable energy development: Analysis based on cross-country panel data
-- [2024-12-30] 祝贺团队指导的本科生牛丙成在中科院一区期刊 Oeconomia Copernicana 发表论文。论文题目：The impact of ICT development on ESG performance: International evidence
-- [2024-9-23] 祝贺团队成员祝文慧在JCR一区期刊 Emerging Markets Finance and Trade 发表论文。论文题目：How Does Digital Finance Stimulate Urban Innovation in China? The Perspective of Human Capital and Consumption Upgrading
+- [2025-7-23] 祝贺团队成员祝文慧与本科生胡川夏、张嘉杰、董菡蔚在国际期刊 Bulletin of Monetary Economics and Banking 发表论文。论文题目：Does Digital Finance Move Together with Technology Innovation in China? | [论文链接](https://doi.org/10.59091/2460-9196.2567)
+- [2025-7-9] 祝贺团队成员武丽敏在JCR二区期刊 Journal of Applied Economics 发表论文。论文题目：The impact of green finance on sustainable development: an investigation into national ESG performance | [论文链接](https://doi.org/10.1080/15140326.2025.2528672)
+- [2025-4-15] 祝贺团队指导的本科生周浩在JCR一区期刊 Energy Strategy Reviews 发表论文。论文题目：Does a bank-dominated financial system benefit the development of renewable energy in developing countries? The case of China | [论文链接](https://doi.org/10.1016/j.esr.2025.101715)
+- [2025-3-15] 祝贺团队成员张鑫语在中科院一区期刊 Energy 发表论文。论文题目：Digitalization and renewable energy development: Analysis based on cross-country panel data | [论文链接](https://doi.org/10.1016/j.energy.2025.135077)
+- [2025-3-15] 祝贺团队成员祝文慧在国际期刊 Environment, Innovation and Management 发表论文。论文题目：Digital Finance, Green Innovation, and Economic Growth | [论文链接](https://doi.org/10.1142/S3060901125500024)
+- [2025-3-15] 祝贺团队指导的本科生王培嘉在国际期刊 Innovation and Green Development 发表论文。论文题目：Green finance and energy efficiency improvement: The role of green innovation and industrial upgrading | [论文链接](https://doi.org/10.1016/j.igd.2024.100200)
+- [2024-12-30] 祝贺团队指导的本科生牛丙成在中科院一区期刊 Oeconomia Copernicana 发表论文。论文题目：The impact of ICT development on ESG performance: International evidence | [论文链接](https://doi.org/10.24136/oc.2797)
+- [2024-9-23] 祝贺团队成员祝文慧在JCR一区期刊 Emerging Markets Finance and Trade 发表论文。论文题目：How Does Digital Finance Stimulate Urban Innovation in China? The Perspective of Human Capital and Consumption Upgrading  | [论文链接](https://doi.org/10.1080/1540496X.2024.2399527)
+- [2024-3-17] 祝贺团队指导的本科生周浩在国际期刊 Innovation and Green Development 发表论文。论文题目：Foreign direct investment and green innovation in China: An examination of quantile regression | [论文链接](https://doi.org/10.1016/j.igd.2024.100150)
+- [2023-11-27] 祝贺团队指导的本科生牛丙成在国际期刊 Innovation and Green Development 发表论文。论文题目：Government environmental protection expenditure and national ESG performance: Global evidence | [论文链接](https://doi.org/10.1016/j.igd.2023.100117)
+- [2023-10-5] 祝贺团队指导的本科生刘昱彤在国际期刊 Innovation and Green Development 发表论文。论文题目：On the linkages between digital finance and real economy in China: A cointegration analysis | [论文链接](https://doi.org/10.1016/j.igd.2023.100109)
 
 
 
 ## 学术会议
 
-- 团队参加“一带一路”论坛——数字时代的能源转型国际学术会议 ![会议图片](/images/202509XUT.jpg )
+- [2025-09] 团队成员汪森、冯朝星参加“一带一路”论坛——数字时代的能源转型国际学术会议 ![会议图片](/images/202509XUT.jpg )
+- [2024-11] 团队成员郑明波参加the Pacific Rim Conference for Natural Hazard and Sustainable Development ![会议图片](/images/202411Japancon.jpg )
+- [2024-10] 团队成员郑明波、刘静、祝文慧参加The International Conference on Digital Finance, Green Innovation, and Sustainable Development ![会议图片](/images/202410CUSTcon.jpg )
+- [2024-09] 团队成员郑明波、刘静、祝文慧和本科生周浩参加International Conference on New Quality Productive Forces and Sustainable Development ![会议图片](/images/202409XUTcon.jpg )
+- [2023-12] 团队成员郑明波、武丽敏、张鑫语参加Digital Transformation and Sustainable Development会议 ![会议图片](/images/202312CUSTcon.jpg )
+- [2023-09] 团队成员郑明波、武丽敏、张鑫语参加The 8th International Conference on Energy Finance ![会议图片](/images/202309XUATcon.jpg )
+
     
 ## 团队动态
 

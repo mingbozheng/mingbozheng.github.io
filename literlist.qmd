@@ -1,0 +1,110 @@
+---
+title: "经济学基础文献清单"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+为了提升科研团队的研究能力、提高团队的研究效率、帮助成员快速了解经济学的基础知识和方法模型，我们搜集在学术界具有权威性、对经济学发展有重大影响、研究方法上有创新改进和与团队的研究方向高度相关等的几类文献，整理出经济学基础文献清单。本清单开放使用。
+
+文献清单侧重于产业经济学方向。具体分类如下
+
+- 基础类：主要搜集经济学领域有影响力的文献，强调对经济学一般知识的掌握。
+
+- 写作类：主要搜集指导经济学论文写作的文献和写作比较好的经济学文献，注重于培养写作技能。
+- 产业经济类：是基于团队核心研究方向设定的类别，侧重于搜集产业经济、技术创新、生产率领域的文献，为团队开展研究打好经济学基础。
+- 方法类：旨在搜集经济学领域各类方法使用的文献，为学术研究提供方法论参考。
+- 案例研究类：主要搜集经济学领域中的案例研究文献，强调对实际经济现象和问题的具体分析和理解。
+- 经济科学的性质与方法：认识经济学这一学科的相关文献。
+
+此外，考虑到文献数量、研究范围、资源限制等多方面因素，本次搜集仅选择最为关键和基础的文献来构建清单，且各个类别不可避免地存在疏漏。因此，文献清单只是提供些许路引，为读者提供一点参考。清单里的文献仅展示了学术宇宙的点点星光，追求真知还需要读者亲自翱翔宇宙。
+
+郑明波、李睿菡
+
+2025年8月23日星期六
+
+
+# 基础类
+- Acemoglu, D., Johnson, S., & Robinson, J. A. (2001). The colonial origins of comparative development: An empirical investigation. American Economic Review, 91(5), 1369-1401.
+- Bai, Y., & Jia, R. (2016). Elite recruitment and political stability: the impact of the abolition of China's civil service exam. Econometrica, 84(2), 677-733.
+- Card, D., & Krueger, A. (1994). A case study of the fast-food industry in New Jersey and Pennsylvania. American Economic Review, 84(4), 773-793.
+- Miguel, E., Satyanath, S., & Sergenti, E. (2004). Economic shocks and civil conflict: An instrumental variables approach. Journal of Political Economy, 112(4), 725-753.
+- Nunn, N., & Qian, N. (2011). The potato's contribution to population and urbanization: evidence from a historical experiment. The Quarterly Journal of Economics, 126(2),-650.
+- Porta, R. L., Lopez-de-Silanes, F., Shleifer, A., & Vishny, R. W. (1998). Law and finance. Journal of Political Economy, 106(6), 1113-1155.
+- Qian, Y., & Roland, G. (1998). Federalism and the soft budget constraint. American Economic Review, 1143-1162.
+- Song, Z., Storesletten, K., & Zilibotti, F. (2011). Growing like China. American Economic Review, 101(1), 196-233.
+- Xu, C. (2011). The fundamental institutions of China's reforms and development. Journal of Economic Literature, 49(4), 1076-1151.
+- Zhu, X. (2012). Understanding China's growth: Past, present, and future. Journal of Economic Perspectives, 26(4), 103-124.
+- 周黎安. 中国地方官员的晋升锦标赛模式研究[J]. 经济研究, 2007, (07): 36-50.
+  
+# 写作类
+## 指导经济学论文写作
+-	McCloskey, D. (1985). Economical writing. Economic Inquiry, 23(2), 187-222.
+-	Edmans, A. (2023). Learnings From 1000 Rejections. Financial Management.
+-	Wu, J., Sanchez-Diaz, I., Yang, Y., & Qu, X. (2024). Why is your paper rejected? Lessons learned from over 5000 rejected transportation papers. Communications in Transportation Research, 4, 100129.
+-	李海舰，学术论文的规范与创新
+
+## 写作比较好的论文
+-	[引言] 叶青,赵良玉,刘思辰. 独立董事“政商旋转门”之考察:一项基于自然实验的研究[J]. 经济研究, 2016, 51 (06): 98-113.
+-	余明桂,范蕊,钟慧洁. 中国产业政策与企业技术创新[J]. 中国工业经济, 2016, (12): 5-22.
+
+## 产业经济类
+-	林毅夫,巫和懋,邢亦青. “潮涌现象”与产能过剩的形成机制[J]. 经济研究, 2010, 45 (10): 4-19.
+-	冯根福. 双重委托代理理论:上市公司治理的另一种分析框架——兼论进一步完善中国上市公司治理的新思路[J]. 经济研究, 2004, (12): 16-25.
+-	冯根福,温军. 中国上市公司治理与企业技术创新关系的实证分析[J]. 中国工业经济, 2008, (07): 91-101.
+
+# 方法类
+## 因果推断
+- 江艇. 因果推断经验研究中的中介效应与调节效应[J]. 中国工业经济,2022,(05): 100-120. 
+- 
+## 双重差分模型
+- 	张征宇,林丽花,曹思力,等. 双重差分设计下固定效应估计量何时可信？——若干有用的建议[J]. 管理世界,2024,40(01): 196-222. 
+- 	刘冲,沙学康,张妍. 交错双重差分：处理效应异质性与估计方法选择[J]. 数量经济技术经济研究,2022,39(09): 177-204. 
+- 	黄炜,张子尧,刘安然. 从双重差分法到事件研究法[J]. 产业经济评论,2022,(02): 17-36. 
+- 	徐佳,崔静波. 低碳城市和企业绿色技术创新[J]. 中国工业经济,2020,(12): 178-196. 
+- 	刘瑞明,赵仁杰. 国家高新区推动了地区经济发展吗?——基于双重差分方法的验证[J]. 管理世界,2015,(08): 30-38. 
+
+## 断点回归模型
+- 	Chen Y, Ebenstein A, Greenstone M, et al. Evidence on the impact of - sustained exposure to air pollution on life expectancy from China’s Huai - River policy[J]. Proceedings of  National Academy of Sciences, 2013, 110- (32): 12936-12941.
+- 	Ebenstein A, Fan M, Greenstone M, et al. New evidence on the impact of - sustained exposure to air pollution on life expectancy from China’s Huai - River Policy[J]. Proceedings the National Academy of Sciences, 2017, 114- (39): 10384-10389.
+- 	李明,李德刚,冯强.中国减税的经济效应评估——基于所得税分享改革“准自然试验”[J]. 经济- 研究,2018,53(07): 121-135.
+- 	陈林,万攀兵,许莹盈.混合所有制企业的股权结构与创新行为——基于自然实验与断点回归的实- 证检验[J]. 管理世界,2019,35(10): 186-205.
+- （四）政策评估模型
+- 陶旭辉,郭峰. 异质性政策效应评估与机器学习方法：研究进展与未来方向[J]. 管理世界, 2023, 39 (11): 216-237.
+
+## 空间计量模型
+-	Dian, J., Song, T., & Li, S. (2024). Facilitating or inhibiting? Spatial effects of the digital economy affecting urban green technology innovation. Energy Economics, 129, 107223.
+-	白俊红,王钺,蒋伏心,等. 研发要素流动、空间知识溢出与经济增长[J]. 经济研究, 2017, 52 (07): 109-123.
+
+## 人工智能方法应用
+-	陶旭辉,郭峰. 异质性政策效应评估与机器学习方法：研究进展与未来方向[J]. 管理世界, 2023, 39 (11): 216-237.
+-	张涛,李均超. 网络基础设施、包容性绿色增长与地区差距——基于双重机器学习的因果推断[J]. 数量经济技术经济研究, 2023, 40 (04): 113-135.
+
+## 工具变量
+- 	Adao, R., Kolesár, M., & Morales, E. (2019). Shift-share designs: Theory -  inference. The Quarterly Journal of Economics, 134(4), 1949-2010.
+- 	Borusyak, K., Hull, P., & Jaravel, X. (2022). Quasi-experimental - ft-share research designs. The Review of Economic Studies, 89(1), 181-213.
+- 	Goldsmith-Pinkham, P., Sorkin, I., & Swift, H. (2020). Bartik instruments: - t, when, why, and how. American Economic Review, 110(8), 2586-2624.
+- 	Borusyak, K., & Hull, P. (2023). Nonrandom exposure to exogenous shocks. - nometrica, 91(6), 2155-2185.
+- 	Bellemare, M. F., T. Masaki, T. B. Pepinsky. (2017). Lagged explanatory - iables and the estimation of causal effect, The Journal of Politics, 79 (3)- 49-963. 
+- 	余振,李萌,庄额嘉.  Bartik工具变量法在因果识别中的应用与检验[J]. 数量经济技术经济- 究,2024,1-21.
+- 	Borusyak, K., Hull, P., & Jaravel, X. (2024). A practical guide to shift-share instruments (No. w33236). National Bureau of Economic Research.
+
+# 案例研究类
+- 刘西川,程恩江. 中国农业产业链融资模式——典型案例与理论含义[J]. 财贸经济,2013,(08): 47-57.
+- 刘西川,钟觅琦. 合作金融组织剩余控制权安排的另一种可能——分权型及半阁村实例[J]. 财贸经济,2018,39(10): 91-104.
+- 路风,慕玲. 本土创新、能力发展和竞争优势——中国激光视盘播放机工业的发展及其对政府作用的政策含义 [J]. 管理世界, 2003, (12): 57-82+155-156.
+
+# 经济科学的性质与方法
+- Friedman,M. The Methodology of Positive Economics./In Essays In Positive Economics(Chicago: Univ. Of Chicago Press, 1966), pp. 3-16, 30-43.
+- Alchian, A.A. (1950). Uncertainty, Evolution and Economic Theory, Journal of Political Economy, 58 (3); 211-221.
+- Bell, D. (1973). Models and Reality in Economic Discourse. In D. Bell & I. Kristol (Eds.), The Crisis in Economic Theory (pp. 20-44). New York: Basic Books.
+- Smith, A. (1776). An Inquiry into the Nature and Causes of the Wealth of Nations. Book I: Of the Causes of Improvement in the Productive Powers of Labour, and of the Order -ording to Which Its Produce Is Naturally Distributed Among the Different Ranks of the People. Chapters 1-3. London: W. Strahan and T. Cadell.
+- Read, L. (1958). I, Pencil: My Family Tree as Told to Leonard E. Read. The Freeman. Foundation for Economic Education.
+- R. A. Radford. (1945). The Economic Organisation of a P.O.W. Camp. Economica,12(48),189-201.
+- Hayek, F. A. (1945). The Use of Knowledge in Society. American Economic Review, 35(4), 519-530.
+- Stigler, G. J. (1961). The Economics of Information. Journal of Political Economy, 69(3), 213–225.
+- Alchian, A. A., & Demsetz, H. (1972). Production, information costs, and economic organization. American Economic Review, 62(5), 777-795.
+- Demsetz, H. (1967). Toward a Theory of Property Rights.  American Economic Review, 57(2), 347-359.
+- Lange, O. (1935). Marxian Economics and Modern Economic Theory. The Review of Economic Studies, 2(3), 189-201.
+- Becker, G. S. (1976). The Economic Way of Looking at Life. Journal of Political Economy, 84(3), 513-529. 
+

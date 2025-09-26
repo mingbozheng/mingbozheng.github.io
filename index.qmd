@@ -1,6 +1,6 @@
 ---
 title: "Mingbo Zheng"
-image: images/mingbo_2025.png
+image: images/mingbo_2025.jpg
 about:
   id: hero-heading
   template: trestles
