@@ -69,7 +69,7 @@ editor:
 - 	Ebenstein A, Fan M, Greenstone M, et al. New evidence on the impact of - sustained exposure to air pollution on life expectancy from China’s Huai - River Policy[J]. Proceedings the National Academy of Sciences, 2017, 114- (39): 10384-10389.
 - 	李明,李德刚,冯强.中国减税的经济效应评估——基于所得税分享改革“准自然试验”[J]. 经济- 研究,2018,53(07): 121-135.
 - 	陈林,万攀兵,许莹盈.混合所有制企业的股权结构与创新行为——基于自然实验与断点回归的实- 证检验[J]. 管理世界,2019,35(10): 186-205.
-- 
+
 ## 政策评估模型
 - 陶旭辉,郭峰. 异质性政策效应评估与机器学习方法：研究进展与未来方向[J]. 管理世界, 2023, 39 (11): 216-237.
 
