@@ -7,7 +7,7 @@ editor:
 
 ## 郑明波个人简介
 
-郑明波，长安大学经管学院副教授，硕士生导师，主要研究领域涵盖技术创新、环境经济与数字经济。累计在《中国工业经济》、《Energy Economics》、《Business Strategy and the Environment》等期刊发表学术论文30余篇。担任《Economic Modelling》、《Emerging Markets Finance and Trade》、《Land Use Policy》、《Energy Strategy Reviews》、《Financial Innovation》等期刊匿名审稿人。主持或参与国家自然科学基金、国家社会科学基金、教育部人文社会科学研究等多项国家级及省部级科研课题。
+郑明波，长安大学经管学院副教授，硕士生导师，主要研究领域涵盖技术创新、环境经济与数字经济。累计在《中国工业经济》《Energy Economics》《Business Strategy and the Environment》等期刊发表学术论文30余篇。担任《Energy Economics》《Economic Modelling》《Emerging Markets Finance and Trade》《Land Use Policy》《Energy Strategy Reviews》《Financial Innovation》等期刊匿名审稿人。主持或参与国家自然科学基金、国家社会科学基金、教育部人文社会科学研究等多项国家级及省部级科研课题。
 
 - 邮箱： mbzheng@chd.edu.cn
 - 地址：陕西省西安市碑林区二环南路中段 126 号，长安大学经管学院 (邮编：710061)
@@ -123,11 +123,11 @@ editor:
 Journal of Open Innovation: Technology, Market, and Complexity, Journal of Environmental Planning and Management, Economic Analysis and Policy, Journal of Environmental Management, British Accounting Review, Journal of International Financial Markets, Institutions & Money, Socio-Economic Planning Sciences, Economic Modelling, Emerging Markets Finance and Trade, Environmental Science and Pollution Research, Land Use Policy, Energy Strategy Reviews, Financial Innovation, Fisheries Research, Innovation & Green Development, Energy Economics, Renewable Energy.
 
 ## 编辑或特刊编辑
-1.	Environmental governance and innovation, *Environmental Science and Pollution Research*, Guest Editor with Chun-Ping Chang and Jun Wen
-2.	Sustainable Development, *Emerging Markets Finance and Trade*, Guest Editor with Chun-Ping Chang and Hai-Jie Wang
-3.	Political Economy and Green Innovation, *Innovation & Green Development*, Guest Editor with Qiang Fu
-4.	*Environment, Innovation and Management*, Editor
-5.	*Humanities & Social Sciences Communications*, the Editorial Board Member
+1.	February 2020-September 2020, Environmental governance and innovation, *Environmental Science and Pollution Research*, Guest Editor with Chun-Ping Chang and Jun Wen
+2.	December 2022-May 2023, Sustainable Development, *Emerging Markets Finance and Trade*, Guest Editor with Chun-Ping Chang and Hai-Jie Wang
+3.	March 2023- July 2023, Political Economy and Green Innovation, *Innovation & Green Development*, Guest Editor with Qiang Fu
+4.	Januray 2025-present, *Environment, Innovation and Management*, Editor
+5.	August 2025-present, *Humanities & Social Sciences Communications*, the Editorial Board Member
 
 
 

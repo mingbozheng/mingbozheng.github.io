@@ -17,8 +17,11 @@ about:
       text: ORCID
       href: https://orcid.org/0000-0002-0853-5195
     - icon: solid user
+      text: Scopus
+      href: https://www.scopus.com/authid/detail.uri?authorId=57200540592  
+    - icon: solid user
       text: 工作主页
-      href: http://jgxy.chd.edu.cn/teach_show.aspx?id=4055
+      href: https://js.chd.edu.cn/jjyglxy/zmb/list.htm
 
 
 ---
