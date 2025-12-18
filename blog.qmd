@@ -11,5 +11,7 @@ editor:
 
   - 经管类期刊目录 [-PDF-](/paperlist2024.pdf)
   - 经济学基础文献清单 [-link-](/literlist.html)
+  - 实证分析方法参考文献[-link-](/methodlist.html)
+  - 研究提示[-link-](/hint.html)
 
 

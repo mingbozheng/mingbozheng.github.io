@@ -1,5 +1,5 @@
 ---
-title: "研究生入读提示"
+title: "研究提示"
 format: html
 ---
 
@@ -7,7 +7,12 @@ format: html
 
 
 - 论文写作要一口气完成，中间不要断。隔1天可以，但别隔太久。
-- 
+- 写作就是思考。脑海里想的再多，没写出来，等于没思考。
+
+
+推荐阅读以下资料
+
+- 李海舰，学术论文的规范与创新，[-link-](/haijian.html)
 
 
 # 电子邮件
@@ -15,7 +20,11 @@ format: html
 - 相比于微信，电子邮件是更加专业化的交流方式。电子邮件的内容更容易保存。
 - 申请一个与姓名有关的电子邮箱，可以让人更容易找到你的邮件名称。推荐163、126、outlook的邮箱。如果喜欢qq邮箱，建议使用其foxmail版本。纯数字的qq邮箱很难让人想起发件人是谁。
 - 在写作邮件时，考虑从收件人的视角审查内容。你很熟悉你要发的内容，但收件人不是。
-  - 邮件务必要有标题，
+  - 邮件务必要有标题，并且清晰明了，名词之间用-或者+分隔。
+  - 开头务必用敬语，表示尊敬。
+  - 结尾留下个人信息，增强可信度。可以不留电话，既无必要，也可以避免信息泄露。
+  - 发送前检查一遍。附件内容容易遗漏。
+  - 最重要的，你写的邮件很可能被公开，所以考虑其内容的规范性。
 
 # 论文写作
 
@@ -25,7 +34,18 @@ format: html
 # 常用数据索引
 
 - 国际数据
-  - 一般数据：[WDI](https://doi.org/10.1016/j.igd.2023.100109), OWID(), OECD()
-  - 能源环境：IEA(), BP(), EPI(),IRNEA
-  - 政治数据：
-  - 贸易金融：
+  - 一般数据：[WDI](https://doi.org/10.1016/j.igd.2023.100109), [OWID](https://ourworldindata.org/), [OECD](https://www.oecd.org/en/data.html)
+  - 能源环境：[IEA](https://www.iea.org/data-and-statistics), [BP](https://www.energyinst.org/statistical-review), [EPI](https://epi.yale.edu/),[IRNEA](https://www.irena.org/Data)
+  - 政治数据：[DPI](https://www.iadb.org/en/knowledge-resources/research-idb/research-datasets/database-political-institutions), [Polity IV](https://www.systemicpeace.org/polityproject.html),
+  - 贸易金融：[KOF](https://kof.ethz.ch/en/forecasts-and-indicators/indicators/kof-globalisation-index.html), [IMF](https://www.systemicpeace.org/polityproject.html)
+  
+# 文献推荐
+
+
+- 刘西川，向准备读博朋友推荐五组文献（https://mp.weixin.qq.com/s/BC9fY7Gh8Ihkl2JwyRj6Rw）
+- 赵达，推荐给学生的reading list(https://mp.weixin.qq.com/s/-cOdvGKTgSqbq96row17-A)
+
+# 微信公众号
+
+- 荆山玉
+- 
