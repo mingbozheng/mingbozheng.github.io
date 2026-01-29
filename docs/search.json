@@ -14,221 +14,60 @@
     "text": "我的 个人主页 是基于 Yujun Lian (github) 的个人主页修改而来的。\n你可以用相同的方法生成你的个人主页，具体制作过程参见：\n50 分钟搞定个人主页：Fork 模板 + GitHub Pages + Quarto 完整教程."
   },
   {
-    "objectID": "news.html",
-    "href": "news.html",
-    "title": "News",
+    "objectID": "outline.html",
+    "href": "outline.html",
+    "title": "Outline",
     "section": "",
-    "text": "本页面展示团队的新闻，包括科研进展、学术会议和团队动态。"
+    "text": "请基于你文献阅读基础和讨论，以某一具体方向（例如“多元化融资需求”）为例，构思一篇论文的框架，并按照以下格式整理出初步框架：\n题目、摘要（500字以内）、提纲（三级标题）、关键参考文献\n\n\n\n题目\n土地低价扭曲的环境后果：政策偏向的弱激励效应\n摘要\n本文基于2007—2019年协议出让的工业用地数据，构建多时点双重差分模型，研究土地低价扭曲对微观企业污染排放的影响及机制。研究发现，土地低价扭曲显著提升企业购地后的二氧化硫排放量，扭曲程度每增加0.1，排放量平均上升3.85%。机制分析表明，低价土地虽降低企业生产成本并缓解生存压力，但也引发“弱激励效应”，抑制企业创新活力、阻碍减排技术进步、强化传统能源依赖，从而推高污染排放。进一步分析发现，低价扭曲虽带来5.4%的就业增长和4.9%的税收增加，但导致二氧化硫排放量增长20.9%，呈现出明显的环境代价。研究结果揭示了地方政府价格干预的非预期环境后果，为完善土地要素市场化定价机制、防范政策偏向的弱激励效应提供了理论与经验依据。\n提纲（三级标题）\n一、问题的提出\n\n土地要素配置的背景和重要性\n政府对土地要素配置的干预及相关研究\n土地低价配置的相关研究\n直接相关的文献及研究不足\n本文研究发现\n研究贡献\n\n二、事实描述与机制讨论\n\n政策背景\n\n\n工业用地出让方式的演变\n最低价标准政策的影响\n\n\n事实描述\n\n\n协议出让与招拍挂出让的价格差异\n协议出让中的价格扭曲特征\n\n\n机制讨论\n\n\n创新与技术进步路径\n能源消费结构路径\n\n三、数据说明与研究设计\n\n数据说明\n\n\n数据来源与匹配\n样本选择与处理\n\n\n研究设计\n\n\n多时点双重差分模型构建\n土地低价扭曲测度方法\n\n四、基准分析\n\n基准回归结果\n平行趋势检验\n稳健性检验\n\n\n调整解释变量测度\n排除前期购地影响\n检验政策偏向的作用\n替换污染物指标\n\n五、影响机制及异质性分析\n\n机制分析\n\n\n土地资源丰裕度与竞争压力\n创新能力与技术进步\n能源消费结构\n\n\n异质性分析\n\n\n行业污染密集程度\n土地等级差异\n\n六、土地低价扭曲影响的成本收益分析\n\n地方政府低价出让的动因：就业与税收\n成本收益的量化分析\n\n\n环境成本估算\n就业与税收收益评估\n\n七、结论与政策启示\n\n研究结论\n政策启示\n\n关键参考文献\n\n黄健柏、徐震、徐珊（2015），《土地价格扭曲、企业属性与过度投资》，《中国工业经济》第3期。\n姚鹏、李慧昭、孙久文（2022），《工业用地价格扭曲、产业转移与产能回潮》，《经济学动态》第10期。\n张莉、黄亮雄、刘京军（2019），《土地引资与企业行为——来自购地工业企业的微观证据》，《经济学动态》第9期。\nGrossman, G. M., & Krueger, A. B.（1995）, “Economic Growth and the Environment”, The Quarterly Journal of Economics, 110(2).\nOlley, G. S., & Pakes, A.（1996）, “The Dynamics of Productivity in the Telecommunications Equipment Industry”, Econometrica, 64(6).\n\n\n\n\n农村“银保合作”创新模式：典型案例与理论含义\n摘要\n本文旨在揭示“银保合作”创新模式的理论逻辑与前提条件。通过保险公司和金融机构之间的合作互动机制，可以有效解决农村信贷与农业保险市场供给不充分的问题。“银保合作”创新模式为破解农村信贷和农业保险双重约束提供了新视角。本文构建了一个“条件—机制—前提”的分析框架来揭示“银保合作”模式的内在机理，并在该框架下考察硕丰草莓联合专业合作社“银行+保险”融资模式的运行机制及其特点。研究表明：（1）银保合作的内在逻辑机理是通过银行与保险公司的合作互联，有效实现信息共享、风险分担，且银行与保险之间所获收益与风险相匹配。（2）银保合作模式有效运行的前提是，在面向农业发放贷款时，单个机构难以独立完成风险管控，需要各主体积极合作、多机构配合共同完成。本文更重视银保合作模式中的系统性风险管理功能，研究结论为实践中推进银保合作模式的有效运行提供借鉴。\n提纲\n一、引言\n二、已有研究评述与本文的分析框架 \n（一）已有研究评述       \n\n对银保合作模式的讨论   \n保险在融资中的作用         \n银行、担保机构、保险公司在处理风险中的差异  \n小结   \n\n（二）本文的分析框架 \n\n条件        \n机制         \n功能\n\n三、硕丰草莓联合专业合作社“银行+保险”融资模式案例分析 \n（一）发展背景 \n（二）运行机制 \n（三）主要特点\n四、关于银保合作模式的理论探讨\n（一）各主体在融资过程中的相互配合 \n（二）银保合作的逻辑机理\n\n信息共享       \n风险分担         \n收益与风险的合理匹配\n\n五、主要结论及政策含义\n\n\n\n案例1来自《数量经济技术经济研究》， 李翀宇,韩超.土地低价扭曲的环境后果：政策偏向的弱激励效应[J].数量经济技术经济研究,2026,(1):188-215. 链接\n案例2来自刘西川公众号链接"
   },
   {
-    "objectID": "news.html#科研进展",
-    "href": "news.html#科研进展",
-    "title": "News",
-    "section": "科研进展",
-    "text": "科研进展\n\n[2025-7-23] 祝贺团队成员祝文慧与本科生胡川夏、张嘉杰、董菡蔚在国际期刊 Bulletin of Monetary Economics and Banking 发表论文。论文题目：Does Digital Finance Move Together with Technology Innovation in China? | 论文链接\n[2025-7-9] 祝贺团队成员武丽敏在JCR二区期刊 Journal of Applied Economics 发表论文。论文题目：The impact of green finance on sustainable development: an investigation into national ESG performance | 论文链接\n[2025-4-15] 祝贺团队指导的本科生周浩在JCR一区期刊 Energy Strategy Reviews 发表论文。论文题目：Does a bank-dominated financial system benefit the development of renewable energy in developing countries? The case of China | 论文链接\n[2025-3-15] 祝贺团队成员张鑫语在中科院一区期刊 Energy 发表论文。论文题目：Digitalization and renewable energy development: Analysis based on cross-country panel data | 论文链接\n[2025-3-12] 祝贺团队成员祝文慧在国际期刊 Environment, Innovation and Management 发表论文。论文题目：Digital Finance, Green Innovation, and Economic Growth | 论文链接\n[2025-1-17] 祝贺团队指导的本科生王培嘉在国际期刊 Innovation and Green Development 发表论文。论文题目：Green finance and energy efficiency improvement: The role of green innovation and industrial upgrading | 论文链接\n[2024-12-30] 祝贺团队指导的本科生牛丙成在中科院一区期刊 Oeconomia Copernicana 发表论文。论文题目：The impact of ICT development on ESG performance: International evidence | 论文链接\n[2024-9-23] 祝贺团队成员祝文慧在JCR一区期刊 Emerging Markets Finance and Trade 发表论文。论文题目：How Does Digital Finance Stimulate Urban Innovation in China? The Perspective of Human Capital and Consumption Upgrading | 论文链接\n[2024-3-17] 祝贺团队指导的本科生周浩在国际期刊 Innovation and Green Development 发表论文。论文题目：Foreign direct investment and green innovation in China: An examination of quantile regression | 论文链接\n[2023-11-27] 祝贺团队指导的本科生牛丙成在国际期刊 Innovation and Green Development 发表论文。论文题目：Government environmental protection expenditure and national ESG performance: Global evidence | 论文链接\n[2023-10-5] 祝贺团队指导的本科生刘昱彤在国际期刊 Innovation and Green Development 发表论文。论文题目：On the linkages between digital finance and real economy in China: A cointegration analysis | 论文链接"
-  },
-  {
-    "objectID": "news.html#学术会议",
-    "href": "news.html#学术会议",
-    "title": "News",
-    "section": "学术会议",
-    "text": "学术会议\n\n[2025-10] 团队成员汪森、冯朝星参加EIM 2025 International Conference Innovating for a Greener Future 会议图片\n[2025-09] 团队成员汪森、冯朝星参加“一带一路”论坛——数字时代的能源转型国际学术会议 会议图片\n[2024-11] 团队成员郑明波参加the Pacific Rim Conference for Natural Hazard and Sustainable Development 会议图片\n[2024-10] 团队成员郑明波、刘静、祝文慧参加The International Conference on Digital Finance, Green Innovation, and Sustainable Development 会议图片\n[2024-09] 团队成员郑明波、刘静、祝文慧和本科生周浩参加International Conference on New Quality Productive Forces and Sustainable Development 会议图片\n[2023-12] 团队成员郑明波、武丽敏、张鑫语参加Digital Transformation and Sustainable Development会议 会议图片\n[2023-09] 团队成员郑明波、武丽敏、张鑫语参加经济高质量发展与数字化研讨会 会议图片"
-  },
-  {
-    "objectID": "news.html#团队动态",
-    "href": "news.html#团队动态",
-    "title": "News",
-    "section": "团队动态",
-    "text": "团队动态\n\n[2025-5-26] 祝贺团队成员张鑫语和武丽敏顺利通过硕士论文答辩！合影"
-  },
-  {
-    "objectID": "literlist.html",
-    "href": "literlist.html",
-    "title": "经济学基础文献清单v0.1",
+    "objectID": "outline.html#任务要求",
+    "href": "outline.html#任务要求",
+    "title": "Outline",
     "section": "",
-    "text": "为了提升科研团队的研究能力、提高团队的研究效率、帮助成员快速了解经济学的基础知识和方法模型，我们搜集在学术界具有权威性、对经济学发展有重大影响、研究方法上有创新改进和与团队的研究方向高度相关等的几类文献，整理出经济学基础文献清单。本清单开放使用。\n文献清单侧重于产业经济学方向。具体分类如下\n此外，考虑到文献数量、研究范围、资源限制等多方面因素，本次搜集仅选择最为关键和基础的文献来构建清单，且各个类别不可避免地存在疏漏。因此，文献清单只是提供些许路引，为读者提供一点参考。清单里的文献仅展示了学术宇宙的点点星光，追求真知还需要读者亲自翱翔宇宙。\n郑明波、李睿菡\n2025年8月23日星期六"
+    "text": "请基于你文献阅读基础和讨论，以某一具体方向（例如“多元化融资需求”）为例，构思一篇论文的框架，并按照以下格式整理出初步框架：\n题目、摘要（500字以内）、提纲（三级标题）、关键参考文献"
   },
   {
-    "objectID": "literlist.html#指导经济学论文写作",
-    "href": "literlist.html#指导经济学论文写作",
-    "title": "经济学基础文献清单v0.1",
-    "section": "指导经济学论文写作",
-    "text": "指导经济学论文写作\n\nMcCloskey, D. (1985). Economical writing. Economic Inquiry, 23(2), 187-222.\nEdmans, A. (2023). Learnings From 1000 Rejections. Financial Management.\nWu, J., Sanchez-Diaz, I., Yang, Y., & Qu, X. (2024). Why is your paper rejected? Lessons learned from over 5000 rejected transportation papers. Communications in Transportation Research, 4, 100129.\n李海舰，学术论文的规范与创新"
-  },
-  {
-    "objectID": "literlist.html#写作比较好的论文",
-    "href": "literlist.html#写作比较好的论文",
-    "title": "经济学基础文献清单v0.1",
-    "section": "写作比较好的论文",
-    "text": "写作比较好的论文\n\n[引言] 叶青,赵良玉,刘思辰. 独立董事“政商旋转门”之考察:一项基于自然实验的研究[J]. 经济研究, 2016, 51 (06): 98-113.\n余明桂,范蕊,钟慧洁. 中国产业政策与企业技术创新[J]. 中国工业经济, 2016, (12): 5-22.\n孙薇,叶初升. 政府采购何以牵动企业创新——兼论需求侧政策“拉力”与供给侧政策“推力”的协同 [J]. 中国工业经济, 2023, (01): 95-113.\nEarle, J. S., & Gehlbach, S. (2015). The Productivity Consequences of Political Turnover: Firm‐Level Evidence from Ukraine’s Orange Revolution. American Journal of Political Science, 59(3), 708-723."
-  },
-  {
-    "objectID": "literlist.html#产业经济类",
-    "href": "literlist.html#产业经济类",
-    "title": "经济学基础文献清单v0.1",
-    "section": "产业经济类",
-    "text": "产业经济类\n\n林毅夫,巫和懋,邢亦青. “潮涌现象”与产能过剩的形成机制[J]. 经济研究, 2010, 45 (10): 4-19.\n冯根福. 双重委托代理理论:上市公司治理的另一种分析框架——兼论进一步完善中国上市公司治理的新思路[J]. 经济研究, 2004, (12): 16-25.\n冯根福,温军. 中国上市公司治理与企业技术创新关系的实证分析[J]. 中国工业经济, 2008, (07): 91-101."
-  },
-  {
-    "objectID": "hint.html",
-    "href": "hint.html",
-    "title": "研究提示",
+    "objectID": "outline.html#案例1",
+    "href": "outline.html#案例1",
+    "title": "Outline",
     "section": "",
-    "text": "学术研究\n\n论文写作要一口气完成，中间不要断。隔1天可以，但别隔太久。\n写作就是思考。脑海里想的再多，没写出来，等于没思考。\n\n推荐阅读以下资料\n\n李海舰，学术论文的规范与创新，-link-\n\n\n\n电子邮件\n\n相比于微信，电子邮件是更加专业化的交流方式。电子邮件的内容更容易保存。\n申请一个与姓名有关的电子邮箱，可以让人更容易找到你的邮件名称。推荐163、126、outlook的邮箱。如果喜欢qq邮箱，建议使用其foxmail版本。纯数字的qq邮箱很难让人想起发件人是谁。\n在写作邮件时，考虑从收件人的视角审查内容。你很熟悉你要发的内容，但收件人不是。\n\n邮件务必要有标题，并且清晰明了，名词之间用-或者+分隔。\n开头务必用敬语，表示尊敬。\n结尾留下个人信息，增强可信度。可以不留电话，既无必要，也可以避免信息泄露。\n发送前检查一遍。附件内容容易遗漏。\n最重要的，你写的邮件很可能被公开，所以考虑其内容的规范性。\n\n\n\n\n论文写作\n\n最重要的是贡献，也就是文章在领域的位置。始终思考文章的理论贡献。\n引言：\n\n\n\n常用数据索引\n\n国际数据\n\n一般数据：WDI, OWID, OECD\n能源环境：IEA, BP, EPI,IRNEA\n政治数据：DPI, Polity IV,\n贸易金融：KOF, IMF\n\n\n\n\n文献推荐\n\n刘西川，向准备读博朋友推荐五组文献（https://mp.weixin.qq.com/s/BC9fY7Gh8Ihkl2JwyRj6Rw）\n赵达，推荐给学生的reading list(https://mp.weixin.qq.com/s/-cOdvGKTgSqbq96row17-A)\n\n\n\n微信公众号\n\n荆山玉\n\n\n未完待续"
+    "text": "题目\n土地低价扭曲的环境后果：政策偏向的弱激励效应\n摘要\n本文基于2007—2019年协议出让的工业用地数据，构建多时点双重差分模型，研究土地低价扭曲对微观企业污染排放的影响及机制。研究发现，土地低价扭曲显著提升企业购地后的二氧化硫排放量，扭曲程度每增加0.1，排放量平均上升3.85%。机制分析表明，低价土地虽降低企业生产成本并缓解生存压力，但也引发“弱激励效应”，抑制企业创新活力、阻碍减排技术进步、强化传统能源依赖，从而推高污染排放。进一步分析发现，低价扭曲虽带来5.4%的就业增长和4.9%的税收增加，但导致二氧化硫排放量增长20.9%，呈现出明显的环境代价。研究结果揭示了地方政府价格干预的非预期环境后果，为完善土地要素市场化定价机制、防范政策偏向的弱激励效应提供了理论与经验依据。\n提纲（三级标题）\n一、问题的提出\n\n土地要素配置的背景和重要性\n政府对土地要素配置的干预及相关研究\n土地低价配置的相关研究\n直接相关的文献及研究不足\n本文研究发现\n研究贡献\n\n二、事实描述与机制讨论\n\n政策背景\n\n\n工业用地出让方式的演变\n最低价标准政策的影响\n\n\n事实描述\n\n\n协议出让与招拍挂出让的价格差异\n协议出让中的价格扭曲特征\n\n\n机制讨论\n\n\n创新与技术进步路径\n能源消费结构路径\n\n三、数据说明与研究设计\n\n数据说明\n\n\n数据来源与匹配\n样本选择与处理\n\n\n研究设计\n\n\n多时点双重差分模型构建\n土地低价扭曲测度方法\n\n四、基准分析\n\n基准回归结果\n平行趋势检验\n稳健性检验\n\n\n调整解释变量测度\n排除前期购地影响\n检验政策偏向的作用\n替换污染物指标\n\n五、影响机制及异质性分析\n\n机制分析\n\n\n土地资源丰裕度与竞争压力\n创新能力与技术进步\n能源消费结构\n\n\n异质性分析\n\n\n行业污染密集程度\n土地等级差异\n\n六、土地低价扭曲影响的成本收益分析\n\n地方政府低价出让的动因：就业与税收\n成本收益的量化分析\n\n\n环境成本估算\n就业与税收收益评估\n\n七、结论与政策启示\n\n研究结论\n政策启示\n\n关键参考文献\n\n黄健柏、徐震、徐珊（2015），《土地价格扭曲、企业属性与过度投资》，《中国工业经济》第3期。\n姚鹏、李慧昭、孙久文（2022），《工业用地价格扭曲、产业转移与产能回潮》，《经济学动态》第10期。\n张莉、黄亮雄、刘京军（2019），《土地引资与企业行为——来自购地工业企业的微观证据》，《经济学动态》第9期。\nGrossman, G. M., & Krueger, A. B.（1995）, “Economic Growth and the Environment”, The Quarterly Journal of Economics, 110(2).\nOlley, G. S., & Pakes, A.（1996）, “The Dynamics of Productivity in the Telecommunications Equipment Industry”, Econometrica, 64(6)."
   },
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "中文简历",
+    "objectID": "outline.html#案例2",
+    "href": "outline.html#案例2",
+    "title": "Outline",
     "section": "",
-    "text": "郑明波，长安大学经管学院副教授，硕士生导师，主要研究领域涵盖技术创新、环境经济与数字经济。累计在《中国工业经济》、《Energy Economics》、《Business Strategy and the Environment》等期刊发表学术论文30余篇。担任《Economic Modelling》、《Emerging Markets Finance and Trade》、《Land Use Policy》、《Energy Strategy Reviews》、《Financial Innovation》等期刊匿名审稿人。主持或参与国家自然科学基金、国家社会科学基金、教育部人文社会科学研究等多项国家级及省部级科研课题。\n\n邮箱： mbzheng@chd.edu.cn\n地址：陕西省西安市碑林区二环南路中段 126 号，长安大学经管学院 (邮编：710061)\n个人主页：https://mingbozheng.github.io"
+    "text": "农村“银保合作”创新模式：典型案例与理论含义\n摘要\n本文旨在揭示“银保合作”创新模式的理论逻辑与前提条件。通过保险公司和金融机构之间的合作互动机制，可以有效解决农村信贷与农业保险市场供给不充分的问题。“银保合作”创新模式为破解农村信贷和农业保险双重约束提供了新视角。本文构建了一个“条件—机制—前提”的分析框架来揭示“银保合作”模式的内在机理，并在该框架下考察硕丰草莓联合专业合作社“银行+保险”融资模式的运行机制及其特点。研究表明：（1）银保合作的内在逻辑机理是通过银行与保险公司的合作互联，有效实现信息共享、风险分担，且银行与保险之间所获收益与风险相匹配。（2）银保合作模式有效运行的前提是，在面向农业发放贷款时，单个机构难以独立完成风险管控，需要各主体积极合作、多机构配合共同完成。本文更重视银保合作模式中的系统性风险管理功能，研究结论为实践中推进银保合作模式的有效运行提供借鉴。\n提纲\n一、引言\n二、已有研究评述与本文的分析框架 \n（一）已有研究评述       \n\n对银保合作模式的讨论   \n保险在融资中的作用         \n银行、担保机构、保险公司在处理风险中的差异  \n小结   \n\n（二）本文的分析框架 \n\n条件        \n机制         \n功能\n\n三、硕丰草莓联合专业合作社“银行+保险”融资模式案例分析 \n（一）发展背景 \n（二）运行机制 \n（三）主要特点\n四、关于银保合作模式的理论探讨\n（一）各主体在融资过程中的相互配合 \n（二）银保合作的逻辑机理\n\n信息共享       \n风险分担         \n收益与风险的合理匹配\n\n五、主要结论及政策含义"
   },
   {
-    "objectID": "CV.html#郑明波个人简介",
-    "href": "CV.html#郑明波个人简介",
-    "title": "中文简历",
+    "objectID": "outline.html#参考文献",
+    "href": "outline.html#参考文献",
+    "title": "Outline",
     "section": "",
-    "text": "郑明波，长安大学经管学院副教授，硕士生导师，主要研究领域涵盖技术创新、环境经济与数字经济。累计在《中国工业经济》、《Energy Economics》、《Business Strategy and the Environment》等期刊发表学术论文30余篇。担任《Economic Modelling》、《Emerging Markets Finance and Trade》、《Land Use Policy》、《Energy Strategy Reviews》、《Financial Innovation》等期刊匿名审稿人。主持或参与国家自然科学基金、国家社会科学基金、教育部人文社会科学研究等多项国家级及省部级科研课题。\n\n邮箱： mbzheng@chd.edu.cn\n地址：陕西省西安市碑林区二环南路中段 126 号，长安大学经管学院 (邮编：710061)\n个人主页：https://mingbozheng.github.io"
+    "text": "案例1来自《数量经济技术经济研究》， 李翀宇,韩超.土地低价扭曲的环境后果：政策偏向的弱激励效应[J].数量经济技术经济研究,2026,(1):188-215. 链接\n案例2来自刘西川公众号链接"
   },
   {
-    "objectID": "CV.html#教育和工作背景",
-    "href": "CV.html#教育和工作背景",
-    "title": "中文简历",
-    "section": "教育和工作背景",
-    "text": "教育和工作背景\n\n2025.01 – Present, 长安大学 经管学院 经济系 副教授\n2021.06 – 2024.12, 长安大学 经管学院 经济系 讲师\n2016.03 – 2020.12, 西安交通大学 经金学院 应用经济学 博士\n2014.09 – 2016.02, 西安交通大学 经金学院 产业经济学 硕士\n2010.09 – 2014.06, 西安交通大学 数统学院 数学与应用数学 本科"
-  },
-  {
-    "objectID": "CV.html#主讲课程",
-    "href": "CV.html#主讲课程",
-    "title": "中文简历",
-    "section": "主讲课程",
-    "text": "主讲课程\n\n本科：证券投资理论与实务（留学生）, 中级经济概论, 宏观经济学\n研究生：数字资产评估"
-  },
-  {
-    "objectID": "CV.html#研究兴趣",
-    "href": "CV.html#研究兴趣",
-    "title": "中文简历",
-    "section": "研究兴趣",
-    "text": "研究兴趣\n\n技术创新\n绿色发展\n数字经济"
-  },
-  {
-    "objectID": "CV.html#论文",
-    "href": "CV.html#论文",
-    "title": "中文简历",
-    "section": "论文",
-    "text": "论文\n\nZheng, M., Wu, L., Feng, G. F., & Chang, C. P. (2025). The impact of green finance on sustainable development: an investigation into national ESG performance. Journal of Applied Economics, 28(1), 2528672.\nZheng, M., & Zhou, H. (2025). Does a bank-dominated financial system benefit the development of renewable energy in developing countries? The case of China. Energy Strategy Reviews, 59, 101715.\nZheng, M., & Zhang, X. (2025). Digitalization and renewable energy development: Analysis based on cross-country panel data. Energy, 319, 135077.\nXiang, S., Zheng, M., Yang, H., He, Y., & Chang, C. P. (2025). Do shocks to electricity consumption generate persistent effect? Evidence from Hunan Province in China. Energy Strategy Reviews, 57, 101636.\nLi, S., Si, H., Liu, C., Gao, B., & Zheng, M. * (2025). Financialization and Stock Volatility of Low-/High-Tech Manufacturing Firms in China: The Moderating Role of M&A. Emerging Markets Finance and Trade, 61(4), 837-857.\nZhu, W., Liu, Y. Q., Niu, B., Zhu, Y., & Zheng, M. * (2025). How Does Digital Finance Stimulate Urban Innovation in China? The Perspective of Human Capital and Consumption Upgrading. Emerging Markets Finance and Trade, 61(4), 805-819.\nZhou, H., & Zheng, M. * (2024). Foreign direct investment and green innovation in China: An examination of quantile regression. Innovation and Green Development, 3(3), 100150.\nLiu, Y., Zheng, M. *, & Shum, W. Y. (2024). On the linkages between digital finance and real economy in China: A cointegration analysis. Innovation and Green Development, 3(1), 100109.\nZheng, M., & Wong, C. Y. (2024). The impact of digital economy on renewable energy development in China. Innovation and Green Development, 3(1), 100094.\nZheng, M., Niu, B., Yang, H. C., & Chang, C. P. (2024). The impact of ICT development on ESG performance: International evidence. Oeconomia Copernicana, 15(4), 1427-1463.\nXu, X., & Zheng, M. * (2023). High-speed rail construction and urban innovation disparity in China: the role of internet development, Economic Change and Restructuring, 56, 3567–3599.\nZheng, M., Feng, G. F., & Chang, C. P. (2023). Is green finance capable of promoting renewable energy technology? Empirical investigation for 64 economies worldwide. Oeconomia Copernicana, 14(2), 483-510.\nYang, Q., Zheng, M. *, & Wang, Y. (2023). The role of CBDC in green finance and sustainable development. Emerging Markets Finance and Trade, 59(15), 4158-4173.\nQiu, Y., Wang, Z., & Zheng, M. * (2023). Can digital finance improve corporate environmental performance? Evidence from heavy polluting listed companies in China. Emerging Markets Finance and Trade, 59(14), 4054-4074.\nZheng, M., Feng, G. F., Zhao, X., & Chang, C. P. (2023). The transaction behavior of cryptocurrency and electricity consumption. Financial Innovation, 9(1), 44.\nZheng, M., Feng, G. F., Wang, Q. J., & Chang, C. P. (2023). Financial globalization and technological innovation: International evidence. Economic Systems, 47(1), 101048.\nZheng, M., Du, Q., & Wang, Q. J. (2023). Nexus between green finance and renewable energy development in China. Emerging Markets Finance and Trade, 59(4), 1205–1218.\nChen, W., Hu, Y., Liu, B., Wang, H., & Zheng, M.* (2022). Does the establishment of Pilot Free Trade Test Zones promote the transformation and upgradation of trade patterns?. Economic Analysis and Policy, 76, 114-128.\nZheng, M., Feng, G. F., Jiang, R. A., & Chang, C. P. (2023). Does environmental, social, and governance performance move together with corporate green innovation in China?. Business Strategy and the Environment, 32(4),1670-1679.\nZhang, D., Zheng, M., Feng, G. F., & Chang, C. P. (2022). Does an environmental policy bring to green innovation in renewable energy?. Renewable Energy, 195, 1113-1124.\nYang, Q. C., Zheng, M., Wang, J. S., & Wang, Y. P. (2022). The shocks of armed conflicts to renewable energy finance: Empirical evidence from cross-country data. Energy Economics, 106109.\nZhao, X. X., Zheng, M., & Fu, Q. (2022). How natural disasters affect energy innovation? The perspective of environmental sustainability. Energy Economics, 109, 105992.\nLi, S., Shahzadi, A., Zheng, M., & Chang, C. P. (2022). The impacts of executives’ political connections on interactions between firm’s mergers, acquisitions, and performance. Economic Change and Restructuring, 55(2), 653-679.\nYang, Q. C., Zheng, M., & Chang, C. P. (2022). Energy policy and green innovation: A quantile investigation into renewable energy. Renewable Energy, 189, 1166-1175.\nFeng, G. F., & Zheng, M. * (2022). Economic policy uncertainty and renewable energy innovation: International evidence. Innovation and Green Development, 1(2), 100010.\nChen, D., Hu, H., & Zheng, M. B. (2021). How Does Energy Production Respond to the COVID-19 Pandemic? Evidence From China. Asian Economics Letters, 2(2), 22324.\nZheng, M., Feng, G. F., Jang, C. L., & Chang, C. P. (2021). Terrorism and green innovation in renewable energy. Energy Economics, 104, 105695.\nWang, Y., Zhang, F., Zheng, M., & Chang, C. P. (2021). Innovation’s Spillover Effect in China: Incorporating the Role of Environmental Regulation. Environmental Modeling & Assessment, 26(5), 695-708.\nLi, B., Zheng, M., Zhao, X., & Chang, C. P. (2021). An assessment of the effect of partisan ideology on shale gas production and the implications for environmental regulations. Economic Systems, 45(3), 100907.\nWang, H. J., An, K., & Zheng, M. * (2021). Who has done a better job in fighting the COVID-19 epidemic? Left or Right?. Emerging Markets Finance and Trade, 57(8), 2415-2425.\nChen, Y. E., Li, C., Chang, C. P., & Zheng, M. * (2021). Identifying the influence of natural disasters on technological innovation. Economic Analysis and Policy, 70, 22-36.\nChang, C. P., Feng, G. F., & Zheng, M. * (2021). Government fighting pandemic, stock market return, and COVID-19 virus outbreak. Emerging Markets Finance and Trade, 57(8), 2389-2406.\nWang, W., Sun, Q., & Zheng, M. * (2021). Marketization level, fiscal input, and rural commercial bank performance. Emerging Markets Finance and Trade, 57(14), 4105-4120.\nLi, S., Liu, C., Zheng, M., Chang, C. P., & Fu, Q. (2021). Financial Market Friction and Corporate Restructuring Activities in China. Emerging Markets Finance and Trade, 57- (14), 4089-4104.\nLi, B., Chang, C. P., & Zheng, M. * (2021). Assessment of innovation and foreign direct investment: An investigation of OECD countries. Pacific Economic Review, 26(3), 392-403.\nWen, J., Zheng, M., Feng, G. F., Chen, S. W., & Chang, C. P. (2020). Corruption and innovation: linear and nonlinear investigations of OECD countries. The Singapore Economic Review, 65(01), 103-129.\nZheng, M., Feng, G. F., Wen, J., & Chang, C. P. (2020). The influence of FDI on domestic innovation: an investigation using structural breaks. Prague Economic Papers, 29(4), 403-423.\nFeng, G. F., Zheng, M., Wen, J., Chang, C. P., & Chen, Y. E. (2019). The assessment of globalization on innovation in Chinese manufacturing firms. Structural Change and Economic Dynamics, 50, 190-202.\nZheng, M., Feng, G. F., Feng, S., & Yuan, X. (2019). The road to innovation vs. the role of globalization: A dynamic quantile investigation. Economic Modelling, 83, 65-83.\nZheng, M., Chen, Y. E., Feng, G. F., Wen, J., & Chang, C. P. (2019). Divorce and housing price in 31 provinces of China. Bulletin of Monetary Economics and Banking, 21(2), 161-176.\nChang, C. P., Wen, J., Zheng, M., Dong, M., & Hao, Y. (2018). Is higher government efficiency conducive to improving energy use efficiency? Evidence from OECD countries. Economic Modelling, 72, 65-77.\nLiu, Y., Hu, X., Zhang, Q., & Zheng, M. (2017). Improving agricultural water use efficiency: a quantitative study of Zhangye city using the static CGE model with a CES water−land resources account. Sustainability, 9(2), 308.\n于海云 & 郑明波. (2025). 科技金融会激励中国企业进行绿色创新吗?——基于“促进科技和金融结合试点”政策的证据. 科学学研究, 43 (06), 1237-1249.\n李旭东, 郑明波 & 张森. (2024). 竞争政策对企业劳动收入份额的影响机制研究. 软科学, 38 (05), 126-131.\n丰若旸,冯根福, 郑明波.(2022).地区战略性新兴产业政策与资本市场资源配置对地区经济增长的影响研究. 西安交通大学学报(社会科学版)(06),64-76.\n冯根福,王珏帅, 郑明波.(2022).“动态国家综合要素竞争优势理论”与中国长期经济增长. 当代经济科学(06),1-12.\n牛鹏,郑明波 ,郭继文.(2022).营商环境如何影响企业投资. 当代财经(01),90-101.\n冯根福,郑明波,温军, 张存炳.(2021).究竟哪些因素决定了中国企业的技术创新——基于九大中文经济学权威期刊和A股上市公司数据的再实证. 中国工业经济(01),17-35.\n郑明波.(2019).高管海外经历、专业背景与企业技术创新. 中国科技论坛(10),137-144+153.\n郑明波.(2019).经济波动对企业研发投入的影响——来自中国上市公司的证据. 江西财经大学学报(05),104-117.\n刘宇,周梅芳,郑明波.(2016).财政成本视角下的棉花目标价格改革影响分析——基于CGE模型的测算. 中国农村经济(10),70-81."
-  },
-  {
-    "objectID": "CV.html#科研项目",
-    "href": "CV.html#科研项目",
-    "title": "中文简历",
-    "section": "科研项目",
-    "text": "科研项目\n\n国家自然科学基金青年项目，节能降碳技术空间扩散的传播渠道、隐性壁垒与优化政策研究，项目号72304047，2024-2026，主持\n中央高校基本科研业务费项目，数字经济提升绿色创新的机理与对策研究，项目号300102232609，2022-2024，主持\n中央高校基本科研业务费项目，数字经济与技术创新协同发展的理论构建、实证分析与优化路径研究，项目号300102233619，2023-2025，主持\n教育部人文社会科学研究青年基金西部和边疆地区项目，多维距离视角下数字经济对绿色创新的空间溢出效应研究，项目号22XJC790015，2022-2025，主持\n教育部人文社会科学研究青年基金项目，数字经济推动消费升级的机理与路径研究：供需动态平衡的视角，项目号21YJC790163，2021-2024，参与\n教育部人文社会科学研究青年基金项目，数字经济对绿色技术创新的影响：理论机制、实证检验和对策研究，项目号22YJC790130，2022-2025，参与\n国家社会科学基金一般项目，垄断行业和垄断行业国有企业引入不同类型民营资本的社会福利研究，项目号14BJY002，2014-2021，参与\n国家社会科学基金一般项目，中国建筑业数字化转型的动力机制与政策选择研究，22BJY162，2022-2024，参与\n国家自然科学基金面上项目，经济制裁对中国技术创新的影响机制、效果及对策——基于省级面板数据的研究，项目号72074176，2021-2024，参与\n陕西省社会科学基金项目，基于数字经济复杂网络的陕西省产业空间布局的路径及机制研究，项目号2021D005，2021-2023，参与\n陕西省教育科学“十四五”规划2023年度青年课题，以中国式现代化为内涵目标的课程思政建设路径研究，项目号SGH23Q0273，2023，参与"
-  },
-  {
-    "objectID": "CV.html#学术会议",
-    "href": "CV.html#学术会议",
-    "title": "中文简历",
-    "section": "学术会议",
-    "text": "学术会议\n\nThe 2nd APAEA PhD/Masters Scholars Conference, 2019.01, Changsha. (Outstanding Paper)\nBelt and Road Forum: the 4th International Energy Finance Conference, 2019.04, Xi’an.\n第九届香樟经济学 Seminar(南京)研究生专场论坛，2018.12, 南京.\nBELT & ROAD FORUM: The 7th International Conference on New Developments in Energy Finance Covering Dual Circulation Development, 2021.09, Webinar.\nThe WEAI 97th annual conference, 2022.07, Webinar\nThe 7th International Conference on Energy Finance, 2022.09, Webinar\nThe Applied Economics Workshop: Innovation and Sustainable Development of Emerging Economies in the Post-Pandemic Era, 2022.10, Webinar (Panel Chair)\nInternational Conference on Digital Finance, Technological Innovation and Economic Development, 2022.12, Webinar (Panel Chair)\nthe Pacific Rim Conference for Digital Technology and Green Growth, 2023.7, Mie University, Japan\nThe 8th International Conference on Energy Finance, 2023.8, Xi’an.\nDigital Transformation and Sustainable Development, 2023.12, Changsha, Panel Chair\nInternational Conference on New Quality Productive Forces and Sustainable Development, 2023.8, Xi’an. Panel Chair\nThe International Conference on Digital Finance, Green Innovation, and Sustainable Development, 2024.10, Changsha, Panel Chair\nthe Pacific Rim Conference for Natural Hazard and Sustainable Development, 2024.11, Niigata, Japan\n第三届“武汉-西安双城金融学论坛(2025年夏季)”，2025.6，武汉"
-  },
-  {
-    "objectID": "CV.html#审稿人",
-    "href": "CV.html#审稿人",
-    "title": "中文简历",
-    "section": "审稿人",
-    "text": "审稿人\nJournal of Open Innovation: Technology, Market, and Complexity, Journal of Environmental Planning and Management, Economic Analysis and Policy, Journal of Environmental Management, British Accounting Review, Journal of International Financial Markets, Institutions & Money, Socio-Economic Planning Sciences, Economic Modelling, Emerging Markets Finance and Trade, Environmental Science and Pollution Research, Land Use Policy, Energy Strategy Reviews, Financial Innovation, Fisheries Research, Innovation & Green Development, Energy Economics, Renewable Energy."
-  },
-  {
-    "objectID": "CV.html#编辑或特刊编辑",
-    "href": "CV.html#编辑或特刊编辑",
-    "title": "中文简历",
-    "section": "编辑或特刊编辑",
-    "text": "编辑或特刊编辑\n\nEnvironmental governance and innovation, Environmental Science and Pollution Research, Guest Editor with Chun-Ping Chang and Jun Wen\nSustainable Development, Emerging Markets Finance and Trade, Guest Editor with Chun-Ping Chang and Hai-Jie Wang\nPolitical Economy and Green Innovation, Innovation & Green Development, Guest Editor with Qiang Fu\nEnvironment, Innovation and Management, Editor\nHumanities & Social Sciences Communications, the Editorial Board Member"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "Blogs",
+    "objectID": "methodlist.html",
+    "href": "methodlist.html",
+    "title": "实证分析方法参考文献清单v0.1",
     "section": "",
-    "text": "页面主要分享团队成员关于科学研究、学术生活的体会和经验。\n\n团队公共品\n\n经管类期刊目录 -PDF-\n经济学基础文献清单 -link-\n实证分析方法参考文献-link-\n研究提示-link-"
+    "text": "因果推断\n\n江艇. 因果推断经验研究中的中介效应与调节效应[J]. 中国工业经济,2022,(05): 100-120.\n\n\n\n双重差分模型\n\n张征宇,林丽花,曹思力,等. 双重差分设计下固定效应估计量何时可信？——若干有用的建议[J]. 管理世界,2024,40(01): 196-222.\n刘冲,沙学康,张妍. 交错双重差分：处理效应异质性与估计方法选择[J]. 数量经济技术经济研究,2022,39(09): 177-204.\n黄炜,张子尧,刘安然. 从双重差分法到事件研究法[J]. 产业经济评论,2022,(02): 17-36.\n徐佳,崔静波. 低碳城市和企业绿色技术创新[J]. 中国工业经济,2020,(12): 178-196.\n刘瑞明,赵仁杰. 国家高新区推动了地区经济发展吗?——基于双重差分方法的验证[J]. 管理世界,2015,(08): 30-38.\n\n\n\n断点回归模型\n\nChen Y, Ebenstein A, Greenstone M, et al. Evidence on the impact of - sustained exposure to air pollution on life expectancy from China’s Huai - River policy[J]. Proceedings of National Academy of Sciences, 2013, 110- (32): 12936-12941.\nEbenstein A, Fan M, Greenstone M, et al. New evidence on the impact of - sustained exposure to air pollution on life expectancy from China’s Huai - River Policy[J]. Proceedings the National Academy of Sciences, 2017, 114- (39): 10384-10389.\n李明,李德刚,冯强.中国减税的经济效应评估——基于所得税分享改革“准自然试验”[J]. 经济研究,2018,53(07): 121-135.\n陈林,万攀兵,许莹盈.混合所有制企业的股权结构与创新行为——基于自然实验与断点回归的实证检验[J]. 管理世界,2019,35(10): 186-205.\n\n\n\n政策评估模型\n\n陶旭辉,郭峰. 异质性政策效应评估与机器学习方法：研究进展与未来方向[J]. 管理世界, 2023, 39 (11): 216-237.\n\n\n\n空间计量模型\n\nDian, J., Song, T., & Li, S. (2024). Facilitating or inhibiting? Spatial effects of the digital economy affecting urban green technology innovation. Energy Economics, 129, 107223.\n白俊红,王钺,蒋伏心,等. 研发要素流动、空间知识溢出与经济增长[J]. 经济研究, 2017, 52 (07): 109-123.\n\n\n\n人工智能方法应用\n\n陶旭辉,郭峰. 异质性政策效应评估与机器学习方法：研究进展与未来方向[J]. 管理世界, 2023, 39 (11): 216-237.\n张涛,李均超. 网络基础设施、包容性绿色增长与地区差距——基于双重机器学习的因果推断[J]. 数量经济技术经济研究, 2023, 40 (04): 113-135.\n\n\n\n工具变量\n\nAdao, R., Kolesár, M., & Morales, E. (2019). Shift-share designs: Theory and inference. The Quarterly Journal of Economics, 134(4), 1949-2010.\nBorusyak, K., Hull, P., & Jaravel, X. (2022). Quasi-experimental shift-share research designs. The Review of Economic Studies, 89(1), 181-213.\nGoldsmith-Pinkham, P., Sorkin, I., & Swift, H. (2020). Bartik instruments: when, why, and how. American Economic Review, 110(8), 2586-2624.\nBorusyak, K., & Hull, P. (2023). Nonrandom exposure to exogenous shocks. Econometrica, 91(6), 2155-2185.\nBellemare, M. F., T. Masaki, T. B. Pepinsky. (2017). Lagged explanatory vaiables and the estimation of causal effect, The Journal of Politics, 79 (3)- 49-963.\n余振,李萌,庄额嘉. Bartik工具变量法在因果识别中的应用与检验[J]. 数量经济技术经济- 究,2024,1-21.\nBorusyak, K., Hull, P., & Jaravel, X. (2024). A practical guide to shift-share instruments (No. w33236). National Bureau of Economic Research.\n\n\n\n控制变量\n\n张子尧,黄炜. 实证研究中的控制变量选择：原理与原则 [J]. 管理世界, 2025, 41 (10): 210-234.\nCinelli, C., Forney, A., & Pearl, J. (2024). A crash course in good and bad controls. Sociological Methods & Research, 53(3), 1071-1104."
   },
   {
-    "objectID": "Chinese.html",
-    "href": "Chinese.html",
-    "title": "中文简历",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mingbo Zheng",
     "section": "",
-    "text": "郑明波，长安大学经管学院副教授，硕士生导师，主要研究领域涵盖技术创新、环境经济与数字经济。累计在《中国工业经济》《Energy Economics》《Business Strategy and the Environment》等期刊发表学术论文30余篇。担任《Energy Economics》《Economic Modelling》《Emerging Markets Finance and Trade》《Land Use Policy》《Energy Strategy Reviews》《Financial Innovation》等期刊匿名审稿人。主持或参与国家自然科学基金、国家社会科学基金、教育部人文社会科学研究等多项国家级及省部级科研课题。\n\n邮箱： mbzheng@chd.edu.cn\n地址：陕西省西安市碑林区二环南路中段 126 号，长安大学经管学院 (邮编：710061)\n个人主页：https://mingbozheng.github.io"
+    "text": "mbzheng@chd.edu.cn\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     ORCID\n  \n  \n    \n     Scopus\n  \n  \n    \n     工作主页\n  \n\n  \n  \nMingbo Zheng is an associate professor at School of Economics and Management, Chang’an University. His research areas include technology innovation, green development, and digital economy. His work has been published in Energy Economics, Business Strategy and the Environment, Economic Modelling, Renewable Energy, Economic Systems, Emerging Markets Finance and Trade, etc.\nHe is the anonymous reviewer of Energy Economics, Economic Analysis and Policy, British Accounting Review, Journal of International Financial Markets, Institutions & Money, Socio-Economic Planning Sciences, Economic Modelling, Emerging Markets Finance and Trade, Land Use Policy, Energy Strategy Reviews, Financial Innovation, and Innovation & Green Development. He was served as the guest editor of Emerging Markets Finance and Trade, Environmental Science and Pollution Research, Innovation & Green Development.\n\n\n\n2025.01 – Present, Associate Professor, School of Economics and Management, Chang’an University\n2021.06 – 2024.12, Lecturer, School of Economics and Management, Chang’an University\n2016.03 – 2020.12, Ph.D. in Economics, School of Economics and Finance, Xi’an Jiaotong University\n2014.09 – 2016.02, Master student, School of Economics and Finance, Xi’an Jiaotong University\n2010.09 – 2014.06, Bachelor’s Degree in Mathematics, School of Mathematics and Statistics, Xi’an Jiaotong University"
   },
   {
-    "objectID": "Chinese.html#郑明波个人简介",
-    "href": "Chinese.html#郑明波个人简介",
-    "title": "中文简历",
+    "objectID": "index.html#background",
+    "href": "index.html#background",
+    "title": "Mingbo Zheng",
     "section": "",
-    "text": "郑明波，长安大学经管学院副教授，硕士生导师，主要研究领域涵盖技术创新、环境经济与数字经济。累计在《中国工业经济》《Energy Economics》《Business Strategy and the Environment》等期刊发表学术论文30余篇。担任《Energy Economics》《Economic Modelling》《Emerging Markets Finance and Trade》《Land Use Policy》《Energy Strategy Reviews》《Financial Innovation》等期刊匿名审稿人。主持或参与国家自然科学基金、国家社会科学基金、教育部人文社会科学研究等多项国家级及省部级科研课题。\n\n邮箱： mbzheng@chd.edu.cn\n地址：陕西省西安市碑林区二环南路中段 126 号，长安大学经管学院 (邮编：710061)\n个人主页：https://mingbozheng.github.io"
-  },
-  {
-    "objectID": "Chinese.html#教育和工作背景",
-    "href": "Chinese.html#教育和工作背景",
-    "title": "中文简历",
-    "section": "教育和工作背景",
-    "text": "教育和工作背景\n\n2025.01 – Present, 长安大学 经管学院 经济系 副教授\n2021.06 – 2024.12, 长安大学 经管学院 经济系 讲师\n2016.03 – 2020.12, 西安交通大学 经金学院 应用经济学 博士\n2014.09 – 2016.02, 西安交通大学 经金学院 产业经济学 硕士\n2010.09 – 2014.06, 西安交通大学 数统学院 数学与应用数学 本科"
-  },
-  {
-    "objectID": "Chinese.html#主讲课程",
-    "href": "Chinese.html#主讲课程",
-    "title": "中文简历",
-    "section": "主讲课程",
-    "text": "主讲课程\n\n本科：证券投资理论与实务（留学生）, 中级经济概论, 宏观经济学\n研究生：数字资产评估"
-  },
-  {
-    "objectID": "Chinese.html#研究兴趣",
-    "href": "Chinese.html#研究兴趣",
-    "title": "中文简历",
-    "section": "研究兴趣",
-    "text": "研究兴趣\n\n技术创新\n绿色发展\n数字经济"
-  },
-  {
-    "objectID": "Chinese.html#论文",
-    "href": "Chinese.html#论文",
-    "title": "中文简历",
-    "section": "论文",
-    "text": "论文\n\nZheng, M., Wu, L., Feng, G. F., & Chang, C. P. (2025). The impact of green finance on sustainable development: an investigation into national ESG performance. Journal of Applied Economics, 28(1), 2528672.\nZheng, M., & Zhou, H. (2025). Does a bank-dominated financial system benefit the development of renewable energy in developing countries? The case of China. Energy Strategy Reviews, 59, 101715.\nZheng, M., & Zhang, X. (2025). Digitalization and renewable energy development: Analysis based on cross-country panel data. Energy, 319, 135077.\nXiang, S., Zheng, M., Yang, H., He, Y., & Chang, C. P. (2025). Do shocks to electricity consumption generate persistent effect? Evidence from Hunan Province in China. Energy Strategy Reviews, 57, 101636.\nLi, S., Si, H., Liu, C., Gao, B., & Zheng, M. * (2025). Financialization and Stock Volatility of Low-/High-Tech Manufacturing Firms in China: The Moderating Role of M&A. Emerging Markets Finance and Trade, 61(4), 837-857.\nZhu, W., Liu, Y. Q., Niu, B., Zhu, Y., & Zheng, M. * (2025). How Does Digital Finance Stimulate Urban Innovation in China? The Perspective of Human Capital and Consumption Upgrading. Emerging Markets Finance and Trade, 61(4), 805-819.\nZhou, H., & Zheng, M. * (2024). Foreign direct investment and green innovation in China: An examination of quantile regression. Innovation and Green Development, 3(3), 100150.\nLiu, Y., Zheng, M. *, & Shum, W. Y. (2024). On the linkages between digital finance and real economy in China: A cointegration analysis. Innovation and Green Development, 3(1), 100109.\nZheng, M., & Wong, C. Y. (2024). The impact of digital economy on renewable energy development in China. Innovation and Green Development, 3(1), 100094.\nZheng, M., Niu, B., Yang, H. C., & Chang, C. P. (2024). The impact of ICT development on ESG performance: International evidence. Oeconomia Copernicana, 15(4), 1427-1463.\nXu, X., & Zheng, M. * (2023). High-speed rail construction and urban innovation disparity in China: the role of internet development, Economic Change and Restructuring, 56, 3567–3599.\nZheng, M., Feng, G. F., & Chang, C. P. (2023). Is green finance capable of promoting renewable energy technology? Empirical investigation for 64 economies worldwide. Oeconomia Copernicana, 14(2), 483-510.\nYang, Q., Zheng, M. *, & Wang, Y. (2023). The role of CBDC in green finance and sustainable development. Emerging Markets Finance and Trade, 59(15), 4158-4173.\nQiu, Y., Wang, Z., & Zheng, M. * (2023). Can digital finance improve corporate environmental performance? Evidence from heavy polluting listed companies in China. Emerging Markets Finance and Trade, 59(14), 4054-4074.\nZheng, M., Feng, G. F., Zhao, X., & Chang, C. P. (2023). The transaction behavior of cryptocurrency and electricity consumption. Financial Innovation, 9(1), 44.\nZheng, M., Feng, G. F., Wang, Q. J., & Chang, C. P. (2023). Financial globalization and technological innovation: International evidence. Economic Systems, 47(1), 101048.\nZheng, M., Du, Q., & Wang, Q. J. (2023). Nexus between green finance and renewable energy development in China. Emerging Markets Finance and Trade, 59(4), 1205–1218.\nChen, W., Hu, Y., Liu, B., Wang, H., & Zheng, M.* (2022). Does the establishment of Pilot Free Trade Test Zones promote the transformation and upgradation of trade patterns?. Economic Analysis and Policy, 76, 114-128.\nZheng, M., Feng, G. F., Jiang, R. A., & Chang, C. P. (2023). Does environmental, social, and governance performance move together with corporate green innovation in China?. Business Strategy and the Environment, 32(4),1670-1679.\nZhang, D., Zheng, M., Feng, G. F., & Chang, C. P. (2022). Does an environmental policy bring to green innovation in renewable energy?. Renewable Energy, 195, 1113-1124.\nYang, Q. C., Zheng, M., Wang, J. S., & Wang, Y. P. (2022). The shocks of armed conflicts to renewable energy finance: Empirical evidence from cross-country data. Energy Economics, 106109.\nZhao, X. X., Zheng, M., & Fu, Q. (2022). How natural disasters affect energy innovation? The perspective of environmental sustainability. Energy Economics, 109, 105992.\nLi, S., Shahzadi, A., Zheng, M., & Chang, C. P. (2022). The impacts of executives’ political connections on interactions between firm’s mergers, acquisitions, and performance. Economic Change and Restructuring, 55(2), 653-679.\nYang, Q. C., Zheng, M., & Chang, C. P. (2022). Energy policy and green innovation: A quantile investigation into renewable energy. Renewable Energy, 189, 1166-1175.\nFeng, G. F., & Zheng, M. * (2022). Economic policy uncertainty and renewable energy innovation: International evidence. Innovation and Green Development, 1(2), 100010.\nChen, D., Hu, H., & Zheng, M. B. (2021). How Does Energy Production Respond to the COVID-19 Pandemic? Evidence From China. Asian Economics Letters, 2(2), 22324.\nZheng, M., Feng, G. F., Jang, C. L., & Chang, C. P. (2021). Terrorism and green innovation in renewable energy. Energy Economics, 104, 105695.\nWang, Y., Zhang, F., Zheng, M., & Chang, C. P. (2021). Innovation’s Spillover Effect in China: Incorporating the Role of Environmental Regulation. Environmental Modeling & Assessment, 26(5), 695-708.\nLi, B., Zheng, M., Zhao, X., & Chang, C. P. (2021). An assessment of the effect of partisan ideology on shale gas production and the implications for environmental regulations. Economic Systems, 45(3), 100907.\nWang, H. J., An, K., & Zheng, M. * (2021). Who has done a better job in fighting the COVID-19 epidemic? Left or Right?. Emerging Markets Finance and Trade, 57(8), 2415-2425.\nChen, Y. E., Li, C., Chang, C. P., & Zheng, M. * (2021). Identifying the influence of natural disasters on technological innovation. Economic Analysis and Policy, 70, 22-36.\nChang, C. P., Feng, G. F., & Zheng, M. * (2021). Government fighting pandemic, stock market return, and COVID-19 virus outbreak. Emerging Markets Finance and Trade, 57(8), 2389-2406.\nWang, W., Sun, Q., & Zheng, M. * (2021). Marketization level, fiscal input, and rural commercial bank performance. Emerging Markets Finance and Trade, 57(14), 4105-4120.\nLi, S., Liu, C., Zheng, M., Chang, C. P., & Fu, Q. (2021). Financial Market Friction and Corporate Restructuring Activities in China. Emerging Markets Finance and Trade, 57-(14), 4089-4104.\nLi, B., Chang, C. P., & Zheng, M. * (2021). Assessment of innovation and foreign direct investment: An investigation of OECD countries. Pacific Economic Review, 26(3), 392-403.\nWen, J., Zheng, M., Feng, G. F., Chen, S. W., & Chang, C. P. (2020). Corruption and innovation: linear and nonlinear investigations of OECD countries. The Singapore Economic Review, 65(01), 103-129.\nZheng, M., Feng, G. F., Wen, J., & Chang, C. P. (2020). The influence of FDI on domestic innovation: an investigation using structural breaks. Prague Economic Papers, 29(4), 403-423.\nFeng, G. F., Zheng, M., Wen, J., Chang, C. P., & Chen, Y. E. (2019). The assessment of globalization on innovation in Chinese manufacturing firms. Structural Change and Economic Dynamics, 50, 190-202.\nZheng, M., Feng, G. F., Feng, S., & Yuan, X. (2019). The road to innovation vs. the role of globalization: A dynamic quantile investigation. Economic Modelling, 83, 65-83.\nZheng, M., Chen, Y. E., Feng, G. F., Wen, J., & Chang, C. P. (2019). Divorce and housing price in 31 provinces of China. Bulletin of Monetary Economics and Banking, 21(2), 161-176.\nChang, C. P., Wen, J., Zheng, M., Dong, M., & Hao, Y. (2018). Is higher government efficiency conducive to improving energy use efficiency? Evidence from OECD countries. Economic Modelling, 72, 65-77.\nLiu, Y., Hu, X., Zhang, Q., & Zheng, M. (2017). Improving agricultural water use efficiency: a quantitative study of Zhangye city using the static CGE model with a CES water− land resources account. Sustainability, 9(2), 308.\n于海云 & 郑明波. (2025). 科技金融会激励中国企业进行绿色创新吗?——基于“促进科技和金融结合试点”政策的证据. 科学学研究, 43 (06), 1237-1249.\n李旭东, 郑明波 & 张森. (2024). 竞争政策对企业劳动收入份额的影响机制研究. 软科学, 38 (05), 126-131.\n丰若旸,冯根福, 郑明波.(2022).地区战略性新兴产业政策与资本市场资源配置对地区经济增长的影响研究. 西安交通大学学报(社会科学版)(06),64-76.\n冯根福,王珏帅, 郑明波.(2022).“动态国家综合要素竞争优势理论”与中国长期经济增长. 当代经济科学(06),1-12.\n牛鹏,郑明波 ,郭继文.(2022).营商环境如何影响企业投资. 当代财经(01),90-101.\n冯根福,郑明波,温军, 张存炳.(2021).究竟哪些因素决定了中国企业的技术创新——基于九大中文经济学权威期刊和A股上市公司数据的再实证. 中国工业经济(01),17-35.\n郑明波.(2019).高管海外经历、专业背景与企业技术创新. 中国科技论坛(10),137-144+153.\n郑明波.(2019).经济波动对企业研发投入的影响——来自中国上市公司的证据. 江西财经大学学报(05),104-117.\n刘宇,周梅芳,郑明波.(2016).财政成本视角下的棉花目标价格改革影响分析——基于CGE模型的测算. 中国农村经济(10),70-81."
-  },
-  {
-    "objectID": "Chinese.html#科研项目",
-    "href": "Chinese.html#科研项目",
-    "title": "中文简历",
-    "section": "科研项目",
-    "text": "科研项目\n\n国家自然科学基金青年项目，节能降碳技术空间扩散的传播渠道、隐性壁垒与优化政策研究，项目号72304047，2024-2026，主持\n中央高校基本科研业务费项目，数字经济提升绿色创新的机理与对策研究，项目号300102232609，2022-2024，主持\n中央高校基本科研业务费项目，数字经济与技术创新协同发展的理论构建、实证分析与优化路径研究，项目号300102233619，2023-2025，主持\n教育部人文社会科学研究青年基金西部和边疆地区项目，多维距离视角下数字经济对绿色创新的空间溢出效应研究，项目号22XJC790015，2022-2025，主持\n教育部人文社会科学研究青年基金项目，数字经济推动消费升级的机理与路径研究：供需动态平衡的视角，项目号21YJC790163，2021-2024，参与\n教育部人文社会科学研究青年基金项目，数字经济对绿色技术创新的影响：理论机制、实证检验和对策研究，项目号22YJC790130，2022-2025，参与\n国家社会科学基金一般项目，垄断行业和垄断行业国有企业引入不同类型民营资本的社会福利研究，项目号14BJY002，2014-2021，参与\n国家社会科学基金一般项目，中国建筑业数字化转型的动力机制与政策选择研究，22BJY162，2022-2024，参与\n国家自然科学基金面上项目，经济制裁对中国技术创新的影响机制、效果及对策——基于省级面板数据的研究，项目号72074176，2021-2024，参与\n陕西省社会科学基金项目，基于数字经济复杂网络的陕西省产业空间布局的路径及机制研究，项目号2021D005，2021-2023，参与\n陕西省教育科学“十四五”规划2023年度青年课题，以中国式现代化为内涵目标的课程思政建设路径研究，项目号SGH23Q0273，2023，参与"
-  },
-  {
-    "objectID": "Chinese.html#学术会议",
-    "href": "Chinese.html#学术会议",
-    "title": "中文简历",
-    "section": "学术会议",
-    "text": "学术会议\n\nThe 2nd APAEA PhD/Masters Scholars Conference, 2019.01, Changsha. (Outstanding Paper)\nBelt and Road Forum: the 4th International Energy Finance Conference, 2019.04, Xi’an.\n第九届香樟经济学 Seminar(南京)研究生专场论坛，2018.12, 南京.\nBELT & ROAD FORUM: The 7th International Conference on New Developments in Energy Finance Covering Dual Circulation Development, 2021.09, Webinar.\nThe WEAI 97th annual conference, 2022.07, Webinar\nThe 7th International Conference on Energy Finance, 2022.09, Webinar\nThe Applied Economics Workshop: Innovation and Sustainable Development of Emerging Economies in the Post-Pandemic Era, 2022.10, Webinar (Panel Chair)\nInternational Conference on Digital Finance, Technological Innovation and Economic Development, 2022.12, Webinar (Panel Chair)\nthe Pacific Rim Conference for Digital Technology and Green Growth, 2023.7, Mie University, Japan\nThe 8th International Conference on Energy Finance, 2023.8, Xi’an.\nDigital Transformation and Sustainable Development, 2023.12, Changsha, Panel Chair\nInternational Conference on New Quality Productive Forces and Sustainable Development, 2023.8, Xi’an. Panel Chair\nThe International Conference on Digital Finance, Green Innovation, and Sustainable Development, 2024.10, Changsha, Panel Chair\nthe Pacific Rim Conference for Natural Hazard and Sustainable Development, 2024.11, Niigata, Japan\n第三届“武汉-西安双城金融学论坛(2025年夏季)”，2025.6，武汉"
-  },
-  {
-    "objectID": "Chinese.html#学术奖励",
-    "href": "Chinese.html#学术奖励",
-    "title": "中文简历",
-    "section": "学术奖励",
-    "text": "学术奖励\n\n陕西省第十五次哲学社会科学优秀成果奖，一等奖，陕西省人民政府，参与人排序2/4\n陕西省优秀博士学位论文，省级，陕西省教育厅/陕西省学位委员会，参与人排序1/1"
-  },
-  {
-    "objectID": "Chinese.html#审稿人",
-    "href": "Chinese.html#审稿人",
-    "title": "中文简历",
-    "section": "审稿人",
-    "text": "审稿人\nJournal of Open Innovation: Technology, Market, and Complexity, Journal of Environmental Planning and Management, Economic Analysis and Policy, Journal of Environmental Management, British Accounting Review, Journal of International Financial Markets, Institutions & Money, Socio-Economic Planning Sciences, Economic Modelling, Emerging Markets Finance and Trade, Environmental Science and Pollution Research, Land Use Policy, Energy Strategy Reviews, Financial Innovation, Fisheries Research, Innovation & Green Development, Energy Economics, Renewable Energy."
-  },
-  {
-    "objectID": "Chinese.html#编辑或特刊编辑",
-    "href": "Chinese.html#编辑或特刊编辑",
-    "title": "中文简历",
-    "section": "编辑或特刊编辑",
-    "text": "编辑或特刊编辑\n\nFebruary 2020-September 2020, Environmental governance and innovation, Environmental Science and Pollution Research, Guest Editor with Chun-Ping Chang and Jun Wen\nDecember 2022-May 2023, Sustainable Development, Emerging Markets Finance and Trade, Guest Editor with Chun-Ping Chang and Hai-Jie Wang\nMarch 2023- July 2023, Political Economy and Green Innovation, Innovation & Green Development, Guest Editor with Qiang Fu\nJanuray 2025-present, Environment, Innovation and Management, Editor\nAugust 2025-present, Humanities & Social Sciences Communications, the Editorial Board Member\n\nUpdated at November 7, 2025"
+    "text": "2025.01 – Present, Associate Professor, School of Economics and Management, Chang’an University\n2021.06 – 2024.12, Lecturer, School of Economics and Management, Chang’an University\n2016.03 – 2020.12, Ph.D. in Economics, School of Economics and Finance, Xi’an Jiaotong University\n2014.09 – 2016.02, Master student, School of Economics and Finance, Xi’an Jiaotong University\n2010.09 – 2014.06, Bachelor’s Degree in Mathematics, School of Mathematics and Statistics, Xi’an Jiaotong University"
   },
   {
     "objectID": "haijian.html",
@@ -368,84 +207,252 @@
     "href": "haijian.html#知识更新",
     "title": "学术论文的规范与创新",
     "section": "4. 知识更新",
-    "text": "4. 知识更新\n当今时代，学习速度＜变化速度＝死亡。由于突变取代渐变成为社会主流模式，“知识折旧”取代“物质折旧”成为“第一折旧”。按照知识折旧定律：一个人如果1年不学习，其脑子里固有的知识存量就会有60%—80%折旧完毕。因此，学术论文创新，必须要以知识加速更新为前提。这里，真正的学者始终处在知识的前沿领域引领学术方向，与时俱进是远不够的。一般而言，过去，学者年龄越大创新思想越多；现在，学者年龄越大创新思想越少。究其原因，知识结构跟不上了，思维范式跟不上了。于是，出现了著名学者的“名实分离现象”，即：有学术实力的时候没有学术名气，有学术名气的时候没有学术实力。\n资料来源！[https://ciejournal.ajcass.com/CommonBlock/SiteContentDetail?contentID=10176]"
+    "text": "4. 知识更新\n当今时代，学习速度＜变化速度＝死亡。由于突变取代渐变成为社会主流模式，“知识折旧”取代“物质折旧”成为“第一折旧”。按照知识折旧定律：一个人如果1年不学习，其脑子里固有的知识存量就会有60%—80%折旧完毕。因此，学术论文创新，必须要以知识加速更新为前提。这里，真正的学者始终处在知识的前沿领域引领学术方向，与时俱进是远不够的。一般而言，过去，学者年龄越大创新思想越多；现在，学者年龄越大创新思想越少。究其原因，知识结构跟不上了，思维范式跟不上了。于是，出现了著名学者的“名实分离现象”，即：有学术实力的时候没有学术名气，有学术名气的时候没有学术实力。\n资料来源"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Mingbo Zheng",
+    "objectID": "Chinese.html",
+    "href": "Chinese.html",
+    "title": "中文简历",
     "section": "",
-    "text": "mbzheng@chd.edu.cn\n  \n  \n    \n     Google Scholar\n  \n  \n    \n     ORCID\n  \n  \n    \n     Scopus\n  \n  \n    \n     工作主页\n  \n\n  \n  \nMingbo Zheng is an associate professor at School of Economics and Management, Chang’an University. His research areas include technology innovation, green development, and digital economy. His work has been published in Energy Economics, Business Strategy and the Environment, Economic Modelling, Renewable Energy, Economic Systems, Emerging Markets Finance and Trade, etc.\nHe is the anonymous reviewer of Energy Economics, Economic Analysis and Policy, British Accounting Review, Journal of International Financial Markets, Institutions & Money, Socio-Economic Planning Sciences, Economic Modelling, Emerging Markets Finance and Trade, Land Use Policy, Energy Strategy Reviews, Financial Innovation, and Innovation & Green Development. He was served as the guest editor of Emerging Markets Finance and Trade, Environmental Science and Pollution Research, Innovation & Green Development.\n\n\n\n2025.01 – Present, Associate Professor, School of Economics and Management, Chang’an University\n2021.06 – 2024.12, Lecturer, School of Economics and Management, Chang’an University\n2016.03 – 2020.12, Ph.D. in Economics, School of Economics and Finance, Xi’an Jiaotong University\n2014.09 – 2016.02, Master student, School of Economics and Finance, Xi’an Jiaotong University\n2010.09 – 2014.06, Bachelor’s Degree in Mathematics, School of Mathematics and Statistics, Xi’an Jiaotong University"
+    "text": "郑明波，长安大学经管学院副教授，硕士生导师，主要研究领域涵盖技术创新、环境经济与数字经济。累计在《中国工业经济》《Energy Economics》《Business Strategy and the Environment》等期刊发表学术论文30余篇。担任《Energy Economics》《Economic Modelling》《Emerging Markets Finance and Trade》《Land Use Policy》《Energy Strategy Reviews》《Financial Innovation》等期刊匿名审稿人。主持或参与国家自然科学基金、国家社会科学基金、教育部人文社会科学研究等多项国家级及省部级科研课题。\n\n邮箱： mbzheng@chd.edu.cn\n地址：陕西省西安市碑林区二环南路中段 126 号，长安大学经管学院 (邮编：710061)\n个人主页：https://mingbozheng.github.io"
   },
   {
-    "objectID": "index.html#background",
-    "href": "index.html#background",
-    "title": "Mingbo Zheng",
+    "objectID": "Chinese.html#郑明波个人简介",
+    "href": "Chinese.html#郑明波个人简介",
+    "title": "中文简历",
     "section": "",
-    "text": "2025.01 – Present, Associate Professor, School of Economics and Management, Chang’an University\n2021.06 – 2024.12, Lecturer, School of Economics and Management, Chang’an University\n2016.03 – 2020.12, Ph.D. in Economics, School of Economics and Finance, Xi’an Jiaotong University\n2014.09 – 2016.02, Master student, School of Economics and Finance, Xi’an Jiaotong University\n2010.09 – 2014.06, Bachelor’s Degree in Mathematics, School of Mathematics and Statistics, Xi’an Jiaotong University"
+    "text": "郑明波，长安大学经管学院副教授，硕士生导师，主要研究领域涵盖技术创新、环境经济与数字经济。累计在《中国工业经济》《Energy Economics》《Business Strategy and the Environment》等期刊发表学术论文30余篇。担任《Energy Economics》《Economic Modelling》《Emerging Markets Finance and Trade》《Land Use Policy》《Energy Strategy Reviews》《Financial Innovation》等期刊匿名审稿人。主持或参与国家自然科学基金、国家社会科学基金、教育部人文社会科学研究等多项国家级及省部级科研课题。\n\n邮箱： mbzheng@chd.edu.cn\n地址：陕西省西安市碑林区二环南路中段 126 号，长安大学经管学院 (邮编：710061)\n个人主页：https://mingbozheng.github.io"
   },
   {
-    "objectID": "methodlist.html",
-    "href": "methodlist.html",
-    "title": "实证分析方法参考文献清单v0.1",
-    "section": "",
-    "text": "江艇. 因果推断经验研究中的中介效应与调节效应[J]. 中国工业经济,2022,(05): 100-120.\n\n\n\n\n\n张征宇,林丽花,曹思力,等. 双重差分设计下固定效应估计量何时可信？——若干有用的建议[J]. 管理世界,2024,40(01): 196-222.\n刘冲,沙学康,张妍. 交错双重差分：处理效应异质性与估计方法选择[J]. 数量经济技术经济研究,2022,39(09): 177-204.\n黄炜,张子尧,刘安然. 从双重差分法到事件研究法[J]. 产业经济评论,2022,(02): 17-36.\n徐佳,崔静波. 低碳城市和企业绿色技术创新[J]. 中国工业经济,2020,(12): 178-196.\n刘瑞明,赵仁杰. 国家高新区推动了地区经济发展吗?——基于双重差分方法的验证[J]. 管理世界,2015,(08): 30-38.\n\n\n\n\n\nChen Y, Ebenstein A, Greenstone M, et al. Evidence on the impact of - sustained exposure to air pollution on life expectancy from China’s Huai - River policy[J]. Proceedings of National Academy of Sciences, 2013, 110- (32): 12936-12941.\nEbenstein A, Fan M, Greenstone M, et al. New evidence on the impact of - sustained exposure to air pollution on life expectancy from China’s Huai - River Policy[J]. Proceedings the National Academy of Sciences, 2017, 114- (39): 10384-10389.\n李明,李德刚,冯强.中国减税的经济效应评估——基于所得税分享改革“准自然试验”[J]. 经济研究,2018,53(07): 121-135.\n陈林,万攀兵,许莹盈.混合所有制企业的股权结构与创新行为——基于自然实验与断点回归的实证检验[J]. 管理世界,2019,35(10): 186-205.\n\n\n\n\n\n陶旭辉,郭峰. 异质性政策效应评估与机器学习方法：研究进展与未来方向[J]. 管理世界, 2023, 39 (11): 216-237.\n\n\n\n\n\nDian, J., Song, T., & Li, S. (2024). Facilitating or inhibiting? Spatial effects of the digital economy affecting urban green technology innovation. Energy Economics, 129, 107223.\n白俊红,王钺,蒋伏心,等. 研发要素流动、空间知识溢出与经济增长[J]. 经济研究, 2017, 52 (07): 109-123.\n\n\n\n\n\n陶旭辉,郭峰. 异质性政策效应评估与机器学习方法：研究进展与未来方向[J]. 管理世界, 2023, 39 (11): 216-237.\n张涛,李均超. 网络基础设施、包容性绿色增长与地区差距——基于双重机器学习的因果推断[J]. 数量经济技术经济研究, 2023, 40 (04): 113-135.\n\n\n\n\n\nAdao, R., Kolesár, M., & Morales, E. (2019). Shift-share designs: Theory and inference. The Quarterly Journal of Economics, 134(4), 1949-2010.\nBorusyak, K., Hull, P., & Jaravel, X. (2022). Quasi-experimental shift-share research designs. The Review of Economic Studies, 89(1), 181-213.\nGoldsmith-Pinkham, P., Sorkin, I., & Swift, H. (2020). Bartik instruments: when, why, and how. American Economic Review, 110(8), 2586-2624.\nBorusyak, K., & Hull, P. (2023). Nonrandom exposure to exogenous shocks. Econometrica, 91(6), 2155-2185.\nBellemare, M. F., T. Masaki, T. B. Pepinsky. (2017). Lagged explanatory vaiables and the estimation of causal effect, The Journal of Politics, 79 (3)- 49-963.\n余振,李萌,庄额嘉. Bartik工具变量法在因果识别中的应用与检验[J]. 数量经济技术经济- 究,2024,1-21.\nBorusyak, K., Hull, P., & Jaravel, X. (2024). A practical guide to shift-share instruments (No. w33236). National Bureau of Economic Research.\n\n\n\n\n\n张子尧,黄炜. 实证研究中的控制变量选择：原理与原则 [J]. 管理世界, 2025, 41 (10): 210-234.\nCinelli, C., Forney, A., & Pearl, J. (2024). A crash course in good and bad controls. Sociological Methods & Research, 53(3), 1071-1104."
+    "objectID": "Chinese.html#教育和工作背景",
+    "href": "Chinese.html#教育和工作背景",
+    "title": "中文简历",
+    "section": "教育和工作背景",
+    "text": "教育和工作背景\n\n2025.01 – Present, 长安大学 经管学院 经济系 副教授\n2021.06 – 2024.12, 长安大学 经管学院 经济系 讲师\n2016.03 – 2020.12, 西安交通大学 经金学院 应用经济学 博士\n2014.09 – 2016.02, 西安交通大学 经金学院 产业经济学 硕士\n2010.09 – 2014.06, 西安交通大学 数统学院 数学与应用数学 本科"
   },
   {
-    "objectID": "methodlist.html#因果推断",
-    "href": "methodlist.html#因果推断",
-    "title": "实证分析方法参考文献清单v0.1",
-    "section": "",
-    "text": "江艇. 因果推断经验研究中的中介效应与调节效应[J]. 中国工业经济,2022,(05): 100-120."
+    "objectID": "Chinese.html#主讲课程",
+    "href": "Chinese.html#主讲课程",
+    "title": "中文简历",
+    "section": "主讲课程",
+    "text": "主讲课程\n\n本科：证券投资理论与实务（留学生）, 中级经济概论, 宏观经济学\n研究生：数字资产评估"
   },
   {
-    "objectID": "methodlist.html#双重差分模型",
-    "href": "methodlist.html#双重差分模型",
-    "title": "实证分析方法参考文献清单v0.1",
-    "section": "",
-    "text": "张征宇,林丽花,曹思力,等. 双重差分设计下固定效应估计量何时可信？——若干有用的建议[J]. 管理世界,2024,40(01): 196-222.\n刘冲,沙学康,张妍. 交错双重差分：处理效应异质性与估计方法选择[J]. 数量经济技术经济研究,2022,39(09): 177-204.\n黄炜,张子尧,刘安然. 从双重差分法到事件研究法[J]. 产业经济评论,2022,(02): 17-36.\n徐佳,崔静波. 低碳城市和企业绿色技术创新[J]. 中国工业经济,2020,(12): 178-196.\n刘瑞明,赵仁杰. 国家高新区推动了地区经济发展吗?——基于双重差分方法的验证[J]. 管理世界,2015,(08): 30-38."
+    "objectID": "Chinese.html#研究兴趣",
+    "href": "Chinese.html#研究兴趣",
+    "title": "中文简历",
+    "section": "研究兴趣",
+    "text": "研究兴趣\n\n技术创新\n绿色发展\n数字经济"
   },
   {
-    "objectID": "methodlist.html#断点回归模型",
-    "href": "methodlist.html#断点回归模型",
-    "title": "实证分析方法参考文献清单v0.1",
-    "section": "",
-    "text": "Chen Y, Ebenstein A, Greenstone M, et al. Evidence on the impact of - sustained exposure to air pollution on life expectancy from China’s Huai - River policy[J]. Proceedings of National Academy of Sciences, 2013, 110- (32): 12936-12941.\nEbenstein A, Fan M, Greenstone M, et al. New evidence on the impact of - sustained exposure to air pollution on life expectancy from China’s Huai - River Policy[J]. Proceedings the National Academy of Sciences, 2017, 114- (39): 10384-10389.\n李明,李德刚,冯强.中国减税的经济效应评估——基于所得税分享改革“准自然试验”[J]. 经济研究,2018,53(07): 121-135.\n陈林,万攀兵,许莹盈.混合所有制企业的股权结构与创新行为——基于自然实验与断点回归的实证检验[J]. 管理世界,2019,35(10): 186-205."
+    "objectID": "Chinese.html#论文",
+    "href": "Chinese.html#论文",
+    "title": "中文简历",
+    "section": "论文",
+    "text": "论文\n\nZheng, M., Wu, L., Feng, G. F., & Chang, C. P. (2025). The impact of green finance on sustainable development: an investigation into national ESG performance. Journal of Applied Economics, 28(1), 2528672.\nZheng, M., & Zhou, H. (2025). Does a bank-dominated financial system benefit the development of renewable energy in developing countries? The case of China. Energy Strategy Reviews, 59, 101715.\nZheng, M., & Zhang, X. (2025). Digitalization and renewable energy development: Analysis based on cross-country panel data. Energy, 319, 135077.\nXiang, S., Zheng, M., Yang, H., He, Y., & Chang, C. P. (2025). Do shocks to electricity consumption generate persistent effect? Evidence from Hunan Province in China. Energy Strategy Reviews, 57, 101636.\nLi, S., Si, H., Liu, C., Gao, B., & Zheng, M. * (2025). Financialization and Stock Volatility of Low-/High-Tech Manufacturing Firms in China: The Moderating Role of M&A. Emerging Markets Finance and Trade, 61(4), 837-857.\nZhu, W., Liu, Y. Q., Niu, B., Zhu, Y., & Zheng, M. * (2025). How Does Digital Finance Stimulate Urban Innovation in China? The Perspective of Human Capital and Consumption Upgrading. Emerging Markets Finance and Trade, 61(4), 805-819.\nZhou, H., & Zheng, M. * (2024). Foreign direct investment and green innovation in China: An examination of quantile regression. Innovation and Green Development, 3(3), 100150.\nLiu, Y., Zheng, M. *, & Shum, W. Y. (2024). On the linkages between digital finance and real economy in China: A cointegration analysis. Innovation and Green Development, 3(1), 100109.\nZheng, M., & Wong, C. Y. (2024). The impact of digital economy on renewable energy development in China. Innovation and Green Development, 3(1), 100094.\nZheng, M., Niu, B., Yang, H. C., & Chang, C. P. (2024). The impact of ICT development on ESG performance: International evidence. Oeconomia Copernicana, 15(4), 1427-1463.\nXu, X., & Zheng, M. * (2023). High-speed rail construction and urban innovation disparity in China: the role of internet development, Economic Change and Restructuring, 56, 3567–3599.\nZheng, M., Feng, G. F., & Chang, C. P. (2023). Is green finance capable of promoting renewable energy technology? Empirical investigation for 64 economies worldwide. Oeconomia Copernicana, 14(2), 483-510.\nYang, Q., Zheng, M. *, & Wang, Y. (2023). The role of CBDC in green finance and sustainable development. Emerging Markets Finance and Trade, 59(15), 4158-4173.\nQiu, Y., Wang, Z., & Zheng, M. * (2023). Can digital finance improve corporate environmental performance? Evidence from heavy polluting listed companies in China. Emerging Markets Finance and Trade, 59(14), 4054-4074.\nZheng, M., Feng, G. F., Zhao, X., & Chang, C. P. (2023). The transaction behavior of cryptocurrency and electricity consumption. Financial Innovation, 9(1), 44.\nZheng, M., Feng, G. F., Wang, Q. J., & Chang, C. P. (2023). Financial globalization and technological innovation: International evidence. Economic Systems, 47(1), 101048.\nZheng, M., Du, Q., & Wang, Q. J. (2023). Nexus between green finance and renewable energy development in China. Emerging Markets Finance and Trade, 59(4), 1205–1218.\nChen, W., Hu, Y., Liu, B., Wang, H., & Zheng, M.* (2022). Does the establishment of Pilot Free Trade Test Zones promote the transformation and upgradation of trade patterns?. Economic Analysis and Policy, 76, 114-128.\nZheng, M., Feng, G. F., Jiang, R. A., & Chang, C. P. (2023). Does environmental, social, and governance performance move together with corporate green innovation in China?. Business Strategy and the Environment, 32(4),1670-1679.\nZhang, D., Zheng, M., Feng, G. F., & Chang, C. P. (2022). Does an environmental policy bring to green innovation in renewable energy?. Renewable Energy, 195, 1113-1124.\nYang, Q. C., Zheng, M., Wang, J. S., & Wang, Y. P. (2022). The shocks of armed conflicts to renewable energy finance: Empirical evidence from cross-country data. Energy Economics, 106109.\nZhao, X. X., Zheng, M., & Fu, Q. (2022). How natural disasters affect energy innovation? The perspective of environmental sustainability. Energy Economics, 109, 105992.\nLi, S., Shahzadi, A., Zheng, M., & Chang, C. P. (2022). The impacts of executives’ political connections on interactions between firm’s mergers, acquisitions, and performance. Economic Change and Restructuring, 55(2), 653-679.\nYang, Q. C., Zheng, M., & Chang, C. P. (2022). Energy policy and green innovation: A quantile investigation into renewable energy. Renewable Energy, 189, 1166-1175.\nFeng, G. F., & Zheng, M. * (2022). Economic policy uncertainty and renewable energy innovation: International evidence. Innovation and Green Development, 1(2), 100010.\nChen, D., Hu, H., & Zheng, M. B. (2021). How Does Energy Production Respond to the COVID-19 Pandemic? Evidence From China. Asian Economics Letters, 2(2), 22324.\nZheng, M., Feng, G. F., Jang, C. L., & Chang, C. P. (2021). Terrorism and green innovation in renewable energy. Energy Economics, 104, 105695.\nWang, Y., Zhang, F., Zheng, M., & Chang, C. P. (2021). Innovation’s Spillover Effect in China: Incorporating the Role of Environmental Regulation. Environmental Modeling & Assessment, 26(5), 695-708.\nLi, B., Zheng, M., Zhao, X., & Chang, C. P. (2021). An assessment of the effect of partisan ideology on shale gas production and the implications for environmental regulations. Economic Systems, 45(3), 100907.\nWang, H. J., An, K., & Zheng, M. * (2021). Who has done a better job in fighting the COVID-19 epidemic? Left or Right?. Emerging Markets Finance and Trade, 57(8), 2415-2425.\nChen, Y. E., Li, C., Chang, C. P., & Zheng, M. * (2021). Identifying the influence of natural disasters on technological innovation. Economic Analysis and Policy, 70, 22-36.\nChang, C. P., Feng, G. F., & Zheng, M. * (2021). Government fighting pandemic, stock market return, and COVID-19 virus outbreak. Emerging Markets Finance and Trade, 57(8), 2389-2406.\nWang, W., Sun, Q., & Zheng, M. * (2021). Marketization level, fiscal input, and rural commercial bank performance. Emerging Markets Finance and Trade, 57(14), 4105-4120.\nLi, S., Liu, C., Zheng, M., Chang, C. P., & Fu, Q. (2021). Financial Market Friction and Corporate Restructuring Activities in China. Emerging Markets Finance and Trade, 57-(14), 4089-4104.\nLi, B., Chang, C. P., & Zheng, M. * (2021). Assessment of innovation and foreign direct investment: An investigation of OECD countries. Pacific Economic Review, 26(3), 392-403.\nWen, J., Zheng, M., Feng, G. F., Chen, S. W., & Chang, C. P. (2020). Corruption and innovation: linear and nonlinear investigations of OECD countries. The Singapore Economic Review, 65(01), 103-129.\nZheng, M., Feng, G. F., Wen, J., & Chang, C. P. (2020). The influence of FDI on domestic innovation: an investigation using structural breaks. Prague Economic Papers, 29(4), 403-423.\nFeng, G. F., Zheng, M., Wen, J., Chang, C. P., & Chen, Y. E. (2019). The assessment of globalization on innovation in Chinese manufacturing firms. Structural Change and Economic Dynamics, 50, 190-202.\nZheng, M., Feng, G. F., Feng, S., & Yuan, X. (2019). The road to innovation vs. the role of globalization: A dynamic quantile investigation. Economic Modelling, 83, 65-83.\nZheng, M., Chen, Y. E., Feng, G. F., Wen, J., & Chang, C. P. (2019). Divorce and housing price in 31 provinces of China. Bulletin of Monetary Economics and Banking, 21(2), 161-176.\nChang, C. P., Wen, J., Zheng, M., Dong, M., & Hao, Y. (2018). Is higher government efficiency conducive to improving energy use efficiency? Evidence from OECD countries. Economic Modelling, 72, 65-77.\nLiu, Y., Hu, X., Zhang, Q., & Zheng, M. (2017). Improving agricultural water use efficiency: a quantitative study of Zhangye city using the static CGE model with a CES water− land resources account. Sustainability, 9(2), 308.\n于海云 & 郑明波. (2025). 科技金融会激励中国企业进行绿色创新吗?——基于“促进科技和金融结合试点”政策的证据. 科学学研究, 43 (06), 1237-1249.\n李旭东, 郑明波 & 张森. (2024). 竞争政策对企业劳动收入份额的影响机制研究. 软科学, 38 (05), 126-131.\n丰若旸,冯根福, 郑明波.(2022).地区战略性新兴产业政策与资本市场资源配置对地区经济增长的影响研究. 西安交通大学学报(社会科学版)(06),64-76.\n冯根福,王珏帅, 郑明波.(2022).“动态国家综合要素竞争优势理论”与中国长期经济增长. 当代经济科学(06),1-12.\n牛鹏,郑明波 ,郭继文.(2022).营商环境如何影响企业投资. 当代财经(01),90-101.\n冯根福,郑明波,温军, 张存炳.(2021).究竟哪些因素决定了中国企业的技术创新——基于九大中文经济学权威期刊和A股上市公司数据的再实证. 中国工业经济(01),17-35.\n郑明波.(2019).高管海外经历、专业背景与企业技术创新. 中国科技论坛(10),137-144+153.\n郑明波.(2019).经济波动对企业研发投入的影响——来自中国上市公司的证据. 江西财经大学学报(05),104-117.\n刘宇,周梅芳,郑明波.(2016).财政成本视角下的棉花目标价格改革影响分析——基于CGE模型的测算. 中国农村经济(10),70-81."
   },
   {
-    "objectID": "methodlist.html#政策评估模型",
-    "href": "methodlist.html#政策评估模型",
-    "title": "实证分析方法参考文献清单v0.1",
-    "section": "",
-    "text": "陶旭辉,郭峰. 异质性政策效应评估与机器学习方法：研究进展与未来方向[J]. 管理世界, 2023, 39 (11): 216-237."
+    "objectID": "Chinese.html#科研项目",
+    "href": "Chinese.html#科研项目",
+    "title": "中文简历",
+    "section": "科研项目",
+    "text": "科研项目\n\n国家自然科学基金青年项目，节能降碳技术空间扩散的传播渠道、隐性壁垒与优化政策研究，项目号72304047，2024-2026，主持\n中央高校基本科研业务费项目，数字经济提升绿色创新的机理与对策研究，项目号300102232609，2022-2024，主持\n中央高校基本科研业务费项目，数字经济与技术创新协同发展的理论构建、实证分析与优化路径研究，项目号300102233619，2023-2025，主持\n教育部人文社会科学研究青年基金西部和边疆地区项目，多维距离视角下数字经济对绿色创新的空间溢出效应研究，项目号22XJC790015，2022-2025，主持\n教育部人文社会科学研究青年基金项目，数字经济推动消费升级的机理与路径研究：供需动态平衡的视角，项目号21YJC790163，2021-2024，参与\n教育部人文社会科学研究青年基金项目，数字经济对绿色技术创新的影响：理论机制、实证检验和对策研究，项目号22YJC790130，2022-2025，参与\n国家社会科学基金一般项目，垄断行业和垄断行业国有企业引入不同类型民营资本的社会福利研究，项目号14BJY002，2014-2021，参与\n国家社会科学基金一般项目，中国建筑业数字化转型的动力机制与政策选择研究，22BJY162，2022-2024，参与\n国家自然科学基金面上项目，经济制裁对中国技术创新的影响机制、效果及对策——基于省级面板数据的研究，项目号72074176，2021-2024，参与\n陕西省社会科学基金项目，基于数字经济复杂网络的陕西省产业空间布局的路径及机制研究，项目号2021D005，2021-2023，参与\n陕西省教育科学“十四五”规划2023年度青年课题，以中国式现代化为内涵目标的课程思政建设路径研究，项目号SGH23Q0273，2023，参与"
   },
   {
-    "objectID": "methodlist.html#空间计量模型",
-    "href": "methodlist.html#空间计量模型",
-    "title": "实证分析方法参考文献清单v0.1",
-    "section": "",
-    "text": "Dian, J., Song, T., & Li, S. (2024). Facilitating or inhibiting? Spatial effects of the digital economy affecting urban green technology innovation. Energy Economics, 129, 107223.\n白俊红,王钺,蒋伏心,等. 研发要素流动、空间知识溢出与经济增长[J]. 经济研究, 2017, 52 (07): 109-123."
+    "objectID": "Chinese.html#学术会议",
+    "href": "Chinese.html#学术会议",
+    "title": "中文简历",
+    "section": "学术会议",
+    "text": "学术会议\n\nThe 2nd APAEA PhD/Masters Scholars Conference, 2019.01, Changsha. (Outstanding Paper)\nBelt and Road Forum: the 4th International Energy Finance Conference, 2019.04, Xi’an.\n第九届香樟经济学 Seminar(南京)研究生专场论坛，2018.12, 南京.\nBELT & ROAD FORUM: The 7th International Conference on New Developments in Energy Finance Covering Dual Circulation Development, 2021.09, Webinar.\nThe WEAI 97th annual conference, 2022.07, Webinar\nThe 7th International Conference on Energy Finance, 2022.09, Webinar\nThe Applied Economics Workshop: Innovation and Sustainable Development of Emerging Economies in the Post-Pandemic Era, 2022.10, Webinar (Panel Chair)\nInternational Conference on Digital Finance, Technological Innovation and Economic Development, 2022.12, Webinar (Panel Chair)\nthe Pacific Rim Conference for Digital Technology and Green Growth, 2023.7, Mie University, Japan\nThe 8th International Conference on Energy Finance, 2023.8, Xi’an.\nDigital Transformation and Sustainable Development, 2023.12, Changsha, Panel Chair\nInternational Conference on New Quality Productive Forces and Sustainable Development, 2023.8, Xi’an. Panel Chair\nThe International Conference on Digital Finance, Green Innovation, and Sustainable Development, 2024.10, Changsha, Panel Chair\nthe Pacific Rim Conference for Natural Hazard and Sustainable Development, 2024.11, Niigata, Japan\n第三届“武汉-西安双城金融学论坛(2025年夏季)”，2025.6，武汉"
   },
   {
-    "objectID": "methodlist.html#人工智能方法应用",
-    "href": "methodlist.html#人工智能方法应用",
-    "title": "实证分析方法参考文献清单v0.1",
-    "section": "",
-    "text": "陶旭辉,郭峰. 异质性政策效应评估与机器学习方法：研究进展与未来方向[J]. 管理世界, 2023, 39 (11): 216-237.\n张涛,李均超. 网络基础设施、包容性绿色增长与地区差距——基于双重机器学习的因果推断[J]. 数量经济技术经济研究, 2023, 40 (04): 113-135."
+    "objectID": "Chinese.html#学术奖励",
+    "href": "Chinese.html#学术奖励",
+    "title": "中文简历",
+    "section": "学术奖励",
+    "text": "学术奖励\n\n陕西省第十五次哲学社会科学优秀成果奖，一等奖，陕西省人民政府，参与人排序2/4\n陕西省优秀博士学位论文，省级，陕西省教育厅/陕西省学位委员会，参与人排序1/1"
   },
   {
-    "objectID": "methodlist.html#工具变量",
-    "href": "methodlist.html#工具变量",
-    "title": "实证分析方法参考文献清单v0.1",
-    "section": "",
-    "text": "Adao, R., Kolesár, M., & Morales, E. (2019). Shift-share designs: Theory and inference. The Quarterly Journal of Economics, 134(4), 1949-2010.\nBorusyak, K., Hull, P., & Jaravel, X. (2022). Quasi-experimental shift-share research designs. The Review of Economic Studies, 89(1), 181-213.\nGoldsmith-Pinkham, P., Sorkin, I., & Swift, H. (2020). Bartik instruments: when, why, and how. American Economic Review, 110(8), 2586-2624.\nBorusyak, K., & Hull, P. (2023). Nonrandom exposure to exogenous shocks. Econometrica, 91(6), 2155-2185.\nBellemare, M. F., T. Masaki, T. B. Pepinsky. (2017). Lagged explanatory vaiables and the estimation of causal effect, The Journal of Politics, 79 (3)- 49-963.\n余振,李萌,庄额嘉. Bartik工具变量法在因果识别中的应用与检验[J]. 数量经济技术经济- 究,2024,1-21.\nBorusyak, K., Hull, P., & Jaravel, X. (2024). A practical guide to shift-share instruments (No. w33236). National Bureau of Economic Research."
+    "objectID": "Chinese.html#审稿人",
+    "href": "Chinese.html#审稿人",
+    "title": "中文简历",
+    "section": "审稿人",
+    "text": "审稿人\nJournal of Open Innovation: Technology, Market, and Complexity, Journal of Environmental Planning and Management, Economic Analysis and Policy, Journal of Environmental Management, British Accounting Review, Journal of International Financial Markets, Institutions & Money, Socio-Economic Planning Sciences, Economic Modelling, Emerging Markets Finance and Trade, Environmental Science and Pollution Research, Land Use Policy, Energy Strategy Reviews, Financial Innovation, Fisheries Research, Innovation & Green Development, Energy Economics, Renewable Energy."
   },
   {
-    "objectID": "methodlist.html#控制变量",
-    "href": "methodlist.html#控制变量",
-    "title": "实证分析方法参考文献清单v0.1",
+    "objectID": "Chinese.html#编辑或特刊编辑",
+    "href": "Chinese.html#编辑或特刊编辑",
+    "title": "中文简历",
+    "section": "编辑或特刊编辑",
+    "text": "编辑或特刊编辑\n\nFebruary 2020-September 2020, Environmental governance and innovation, Environmental Science and Pollution Research, Guest Editor with Chun-Ping Chang and Jun Wen\nDecember 2022-May 2023, Sustainable Development, Emerging Markets Finance and Trade, Guest Editor with Chun-Ping Chang and Hai-Jie Wang\nMarch 2023- July 2023, Political Economy and Green Innovation, Innovation & Green Development, Guest Editor with Qiang Fu\nJanuray 2025-present, Environment, Innovation and Management, Editor\nAugust 2025-present, Humanities & Social Sciences Communications, the Editorial Board Member\n\nUpdated at November 7, 2025"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Blogs",
     "section": "",
-    "text": "张子尧,黄炜. 实证研究中的控制变量选择：原理与原则 [J]. 管理世界, 2025, 41 (10): 210-234.\nCinelli, C., Forney, A., & Pearl, J. (2024). A crash course in good and bad controls. Sociological Methods & Research, 53(3), 1071-1104."
+    "text": "页面主要分享团队成员关于科学研究、学术生活的体会和经验。\n\n团队公共品\n\n经管类期刊目录 -PDF-\n经济学基础文献清单 -link-\n实证分析方法参考文献-link-\n研究提示-link-\n论文提纲-link-"
+  },
+  {
+    "objectID": "CV.html",
+    "href": "CV.html",
+    "title": "中文简历",
+    "section": "",
+    "text": "郑明波，长安大学经管学院副教授，硕士生导师，主要研究领域涵盖技术创新、环境经济与数字经济。累计在《中国工业经济》《Energy Economics》《Business Strategy and the Environment》等期刊发表学术论文30余篇。担任《Economic Modelling》《Emerging Markets Finance and Trade》《Land Use Policy》《Energy Strategy Reviews》《Financial Innovation》等期刊匿名审稿人。主持或参与国家自然科学基金、国家社会科学基金、教育部人文社会科学研究等多项国家级及省部级科研课题。\n\n邮箱： mbzheng@chd.edu.cn\n地址：陕西省西安市碑林区二环南路中段 126 号，长安大学经管学院 (邮编：710061)\n个人主页：https://mingbozheng.github.io"
+  },
+  {
+    "objectID": "CV.html#郑明波个人简介",
+    "href": "CV.html#郑明波个人简介",
+    "title": "中文简历",
+    "section": "",
+    "text": "郑明波，长安大学经管学院副教授，硕士生导师，主要研究领域涵盖技术创新、环境经济与数字经济。累计在《中国工业经济》《Energy Economics》《Business Strategy and the Environment》等期刊发表学术论文30余篇。担任《Economic Modelling》《Emerging Markets Finance and Trade》《Land Use Policy》《Energy Strategy Reviews》《Financial Innovation》等期刊匿名审稿人。主持或参与国家自然科学基金、国家社会科学基金、教育部人文社会科学研究等多项国家级及省部级科研课题。\n\n邮箱： mbzheng@chd.edu.cn\n地址：陕西省西安市碑林区二环南路中段 126 号，长安大学经管学院 (邮编：710061)\n个人主页：https://mingbozheng.github.io"
+  },
+  {
+    "objectID": "CV.html#教育和工作背景",
+    "href": "CV.html#教育和工作背景",
+    "title": "中文简历",
+    "section": "教育和工作背景",
+    "text": "教育和工作背景\n\n2025.01 – Present, 长安大学 经管学院 经济系 副教授\n2021.06 – 2024.12, 长安大学 经管学院 经济系 讲师\n2016.03 – 2020.12, 西安交通大学 经金学院 应用经济学 博士\n2014.09 – 2016.02, 西安交通大学 经金学院 产业经济学 硕士\n2010.09 – 2014.06, 西安交通大学 数统学院 数学与应用数学 本科"
+  },
+  {
+    "objectID": "CV.html#主讲课程",
+    "href": "CV.html#主讲课程",
+    "title": "中文简历",
+    "section": "主讲课程",
+    "text": "主讲课程\n\n本科：证券投资理论与实务（留学生）, 中级经济概论, 宏观经济学\n研究生：数字资产评估"
+  },
+  {
+    "objectID": "CV.html#研究兴趣",
+    "href": "CV.html#研究兴趣",
+    "title": "中文简历",
+    "section": "研究兴趣",
+    "text": "研究兴趣\n\n技术创新\n绿色发展\n数字经济"
+  },
+  {
+    "objectID": "CV.html#论文",
+    "href": "CV.html#论文",
+    "title": "中文简历",
+    "section": "论文",
+    "text": "论文\n\nZheng, M., Wu, L., Feng, G. F., & Chang, C. P. (2025). The impact of green finance on sustainable development: an investigation into national ESG performance. Journal of Applied Economics, 28(1), 2528672.\nZheng, M., & Zhou, H. (2025). Does a bank-dominated financial system benefit the development of renewable energy in developing countries? The case of China. Energy Strategy Reviews, 59, 101715.\nZheng, M., & Zhang, X. (2025). Digitalization and renewable energy development: Analysis based on cross-country panel data. Energy, 319, 135077.\nXiang, S., Zheng, M., Yang, H., He, Y., & Chang, C. P. (2025). Do shocks to electricity consumption generate persistent effect? Evidence from Hunan Province in China. Energy Strategy Reviews, 57, 101636.\nLi, S., Si, H., Liu, C., Gao, B., & Zheng, M. * (2025). Financialization and Stock Volatility of Low-/High-Tech Manufacturing Firms in China: The Moderating Role of M&A. Emerging Markets Finance and Trade, 61(4), 837-857.\nZhu, W., Liu, Y. Q., Niu, B., Zhu, Y., & Zheng, M. * (2025). How Does Digital Finance Stimulate Urban Innovation in China? The Perspective of Human Capital and Consumption Upgrading. Emerging Markets Finance and Trade, 61(4), 805-819.\nZhou, H., & Zheng, M. * (2024). Foreign direct investment and green innovation in China: An examination of quantile regression. Innovation and Green Development, 3(3), 100150.\nLiu, Y., Zheng, M. *, & Shum, W. Y. (2024). On the linkages between digital finance and real economy in China: A cointegration analysis. Innovation and Green Development, 3(1), 100109.\nZheng, M., & Wong, C. Y. (2024). The impact of digital economy on renewable energy development in China. Innovation and Green Development, 3(1), 100094.\nZheng, M., Niu, B., Yang, H. C., & Chang, C. P. (2024). The impact of ICT development on ESG performance: International evidence. Oeconomia Copernicana, 15(4), 1427-1463.\nXu, X., & Zheng, M. * (2023). High-speed rail construction and urban innovation disparity in China: the role of internet development, Economic Change and Restructuring, 56, 3567–3599.\nZheng, M., Feng, G. F., & Chang, C. P. (2023). Is green finance capable of promoting renewable energy technology? Empirical investigation for 64 economies worldwide. Oeconomia Copernicana, 14(2), 483-510.\nYang, Q., Zheng, M. *, & Wang, Y. (2023). The role of CBDC in green finance and sustainable development. Emerging Markets Finance and Trade, 59(15), 4158-4173.\nQiu, Y., Wang, Z., & Zheng, M. * (2023). Can digital finance improve corporate environmental performance? Evidence from heavy polluting listed companies in China. Emerging Markets Finance and Trade, 59(14), 4054-4074.\nZheng, M., Feng, G. F., Zhao, X., & Chang, C. P. (2023). The transaction behavior of cryptocurrency and electricity consumption. Financial Innovation, 9(1), 44.\nZheng, M., Feng, G. F., Wang, Q. J., & Chang, C. P. (2023). Financial globalization and technological innovation: International evidence. Economic Systems, 47(1), 101048.\nZheng, M., Du, Q., & Wang, Q. J. (2023). Nexus between green finance and renewable energy development in China. Emerging Markets Finance and Trade, 59(4), 1205–1218.\nChen, W., Hu, Y., Liu, B., Wang, H., & Zheng, M.* (2022). Does the establishment of Pilot Free Trade Test Zones promote the transformation and upgradation of trade patterns?. Economic Analysis and Policy, 76, 114-128.\nZheng, M., Feng, G. F., Jiang, R. A., & Chang, C. P. (2023). Does environmental, social, and governance performance move together with corporate green innovation in China?. Business Strategy and the Environment, 32(4),1670-1679.\nZhang, D., Zheng, M., Feng, G. F., & Chang, C. P. (2022). Does an environmental policy bring to green innovation in renewable energy?. Renewable Energy, 195, 1113-1124.\nYang, Q. C., Zheng, M., Wang, J. S., & Wang, Y. P. (2022). The shocks of armed conflicts to renewable energy finance: Empirical evidence from cross-country data. Energy Economics, 106109.\nZhao, X. X., Zheng, M., & Fu, Q. (2022). How natural disasters affect energy innovation? The perspective of environmental sustainability. Energy Economics, 109, 105992.\nLi, S., Shahzadi, A., Zheng, M., & Chang, C. P. (2022). The impacts of executives’ political connections on interactions between firm’s mergers, acquisitions, and performance. Economic Change and Restructuring, 55(2), 653-679.\nYang, Q. C., Zheng, M., & Chang, C. P. (2022). Energy policy and green innovation: A quantile investigation into renewable energy. Renewable Energy, 189, 1166-1175.\nFeng, G. F., & Zheng, M. * (2022). Economic policy uncertainty and renewable energy innovation: International evidence. Innovation and Green Development, 1(2), 100010.\nChen, D., Hu, H., & Zheng, M. B. (2021). How Does Energy Production Respond to the COVID-19 Pandemic? Evidence From China. Asian Economics Letters, 2(2), 22324.\nZheng, M., Feng, G. F., Jang, C. L., & Chang, C. P. (2021). Terrorism and green innovation in renewable energy. Energy Economics, 104, 105695.\nWang, Y., Zhang, F., Zheng, M., & Chang, C. P. (2021). Innovation’s Spillover Effect in China: Incorporating the Role of Environmental Regulation. Environmental Modeling & Assessment, 26(5), 695-708.\nLi, B., Zheng, M., Zhao, X., & Chang, C. P. (2021). An assessment of the effect of partisan ideology on shale gas production and the implications for environmental regulations. Economic Systems, 45(3), 100907.\nWang, H. J., An, K., & Zheng, M. * (2021). Who has done a better job in fighting the COVID-19 epidemic? Left or Right?. Emerging Markets Finance and Trade, 57(8), 2415-2425.\nChen, Y. E., Li, C., Chang, C. P., & Zheng, M. * (2021). Identifying the influence of natural disasters on technological innovation. Economic Analysis and Policy, 70, 22-36.\nChang, C. P., Feng, G. F., & Zheng, M. * (2021). Government fighting pandemic, stock market return, and COVID-19 virus outbreak. Emerging Markets Finance and Trade, 57(8), 2389-2406.\nWang, W., Sun, Q., & Zheng, M. * (2021). Marketization level, fiscal input, and rural commercial bank performance. Emerging Markets Finance and Trade, 57(14), 4105-4120.\nLi, S., Liu, C., Zheng, M., Chang, C. P., & Fu, Q. (2021). Financial Market Friction and Corporate Restructuring Activities in China. Emerging Markets Finance and Trade, 57- (14), 4089-4104.\nLi, B., Chang, C. P., & Zheng, M. * (2021). Assessment of innovation and foreign direct investment: An investigation of OECD countries. Pacific Economic Review, 26(3), 392-403.\nWen, J., Zheng, M., Feng, G. F., Chen, S. W., & Chang, C. P. (2020). Corruption and innovation: linear and nonlinear investigations of OECD countries. The Singapore Economic Review, 65(01), 103-129.\nZheng, M., Feng, G. F., Wen, J., & Chang, C. P. (2020). The influence of FDI on domestic innovation: an investigation using structural breaks. Prague Economic Papers, 29(4), 403-423.\nFeng, G. F., Zheng, M., Wen, J., Chang, C. P., & Chen, Y. E. (2019). The assessment of globalization on innovation in Chinese manufacturing firms. Structural Change and Economic Dynamics, 50, 190-202.\nZheng, M., Feng, G. F., Feng, S., & Yuan, X. (2019). The road to innovation vs. the role of globalization: A dynamic quantile investigation. Economic Modelling, 83, 65-83.\nZheng, M., Chen, Y. E., Feng, G. F., Wen, J., & Chang, C. P. (2019). Divorce and housing price in 31 provinces of China. Bulletin of Monetary Economics and Banking, 21(2), 161-176.\nChang, C. P., Wen, J., Zheng, M., Dong, M., & Hao, Y. (2018). Is higher government efficiency conducive to improving energy use efficiency? Evidence from OECD countries. Economic Modelling, 72, 65-77.\nLiu, Y., Hu, X., Zhang, Q., & Zheng, M. (2017). Improving agricultural water use efficiency: a quantitative study of Zhangye city using the static CGE model with a CES water−land resources account. Sustainability, 9(2), 308.\n于海云 & 郑明波. (2025). 科技金融会激励中国企业进行绿色创新吗?——基于“促进科技和金融结合试点”政策的证据. 科学学研究, 43 (06), 1237-1249.\n李旭东, 郑明波 & 张森. (2024). 竞争政策对企业劳动收入份额的影响机制研究. 软科学, 38 (05), 126-131.\n丰若旸,冯根福, 郑明波.(2022).地区战略性新兴产业政策与资本市场资源配置对地区经济增长的影响研究. 西安交通大学学报(社会科学版)(06),64-76.\n冯根福,王珏帅, 郑明波.(2022).“动态国家综合要素竞争优势理论”与中国长期经济增长. 当代经济科学(06),1-12.\n牛鹏,郑明波 ,郭继文.(2022).营商环境如何影响企业投资. 当代财经(01),90-101.\n冯根福,郑明波,温军, 张存炳.(2021).究竟哪些因素决定了中国企业的技术创新——基于九大中文经济学权威期刊和A股上市公司数据的再实证. 中国工业经济(01),17-35.\n郑明波.(2019).高管海外经历、专业背景与企业技术创新. 中国科技论坛(10),137-144+153.\n郑明波.(2019).经济波动对企业研发投入的影响——来自中国上市公司的证据. 江西财经大学学报(05),104-117.\n刘宇,周梅芳,郑明波.(2016).财政成本视角下的棉花目标价格改革影响分析——基于CGE模型的测算. 中国农村经济(10),70-81."
+  },
+  {
+    "objectID": "CV.html#科研项目",
+    "href": "CV.html#科研项目",
+    "title": "中文简历",
+    "section": "科研项目",
+    "text": "科研项目\n\n国家自然科学基金青年项目，节能降碳技术空间扩散的传播渠道、隐性壁垒与优化政策研究，项目号72304047，2024-2026，主持\n中央高校基本科研业务费项目，数字经济提升绿色创新的机理与对策研究，项目号300102232609，2022-2024，主持\n中央高校基本科研业务费项目，数字经济与技术创新协同发展的理论构建、实证分析与优化路径研究，项目号300102233619，2023-2025，主持\n教育部人文社会科学研究青年基金西部和边疆地区项目，多维距离视角下数字经济对绿色创新的空间溢出效应研究，项目号22XJC790015，2022-2025，主持\n教育部人文社会科学研究青年基金项目，数字经济推动消费升级的机理与路径研究：供需动态平衡的视角，项目号21YJC790163，2021-2024，参与\n教育部人文社会科学研究青年基金项目，数字经济对绿色技术创新的影响：理论机制、实证检验和对策研究，项目号22YJC790130，2022-2025，参与\n国家社会科学基金一般项目，垄断行业和垄断行业国有企业引入不同类型民营资本的社会福利研究，项目号14BJY002，2014-2021，参与\n国家社会科学基金一般项目，中国建筑业数字化转型的动力机制与政策选择研究，22BJY162，2022-2024，参与\n国家自然科学基金面上项目，经济制裁对中国技术创新的影响机制、效果及对策——基于省级面板数据的研究，项目号72074176，2021-2024，参与\n陕西省社会科学基金项目，基于数字经济复杂网络的陕西省产业空间布局的路径及机制研究，项目号2021D005，2021-2023，参与\n陕西省教育科学“十四五”规划2023年度青年课题，以中国式现代化为内涵目标的课程思政建设路径研究，项目号SGH23Q0273，2023，参与"
+  },
+  {
+    "objectID": "CV.html#学术会议",
+    "href": "CV.html#学术会议",
+    "title": "中文简历",
+    "section": "学术会议",
+    "text": "学术会议\n\nThe 2nd APAEA PhD/Masters Scholars Conference, 2019.01, Changsha. (Outstanding Paper)\nBelt and Road Forum: the 4th International Energy Finance Conference, 2019.04, Xi’an.\n第九届香樟经济学 Seminar(南京)研究生专场论坛，2018.12, 南京.\nBELT & ROAD FORUM: The 7th International Conference on New Developments in Energy Finance Covering Dual Circulation Development, 2021.09, Webinar.\nThe WEAI 97th annual conference, 2022.07, Webinar\nThe 7th International Conference on Energy Finance, 2022.09, Webinar\nThe Applied Economics Workshop: Innovation and Sustainable Development of Emerging Economies in the Post-Pandemic Era, 2022.10, Webinar (Panel Chair)\nInternational Conference on Digital Finance, Technological Innovation and Economic Development, 2022.12, Webinar (Panel Chair)\nthe Pacific Rim Conference for Digital Technology and Green Growth, 2023.7, Mie University, Japan\nThe 8th International Conference on Energy Finance, 2023.8, Xi’an.\nDigital Transformation and Sustainable Development, 2023.12, Changsha, Panel Chair\nInternational Conference on New Quality Productive Forces and Sustainable Development, 2023.8, Xi’an. Panel Chair\nThe International Conference on Digital Finance, Green Innovation, and Sustainable Development, 2024.10, Changsha, Panel Chair\nthe Pacific Rim Conference for Natural Hazard and Sustainable Development, 2024.11, Niigata, Japan\n第三届“武汉-西安双城金融学论坛(2025年夏季)”，2025.6，武汉\nConference on New Trends in Emerging Financial Markets，2025.12，武汉"
+  },
+  {
+    "objectID": "CV.html#审稿人",
+    "href": "CV.html#审稿人",
+    "title": "中文简历",
+    "section": "审稿人",
+    "text": "审稿人\nJournal of Open Innovation: Technology, Market, and Complexity, Journal of Environmental Planning and Management, Economic Analysis and Policy, Journal of Environmental Management, British Accounting Review, Journal of International Financial Markets, Institutions & Money, Socio-Economic Planning Sciences, Economic Modelling, Emerging Markets Finance and Trade, Environmental Science and Pollution Research, Land Use Policy, Energy Strategy Reviews, Financial Innovation, Fisheries Research, Innovation & Green Development, Energy Economics, Renewable Energy."
+  },
+  {
+    "objectID": "CV.html#编辑或特刊编辑",
+    "href": "CV.html#编辑或特刊编辑",
+    "title": "中文简历",
+    "section": "编辑或特刊编辑",
+    "text": "编辑或特刊编辑\n\nEnvironmental governance and innovation, Environmental Science and Pollution Research, Guest Editor with Chun-Ping Chang and Jun Wen\nSustainable Development, Emerging Markets Finance and Trade, Guest Editor with Chun-Ping Chang and Hai-Jie Wang\nPolitical Economy and Green Innovation, Innovation & Green Development, Guest Editor with Qiang Fu\nEnvironment, Innovation and Management, Editor\nHumanities & Social Sciences Communications, the Editorial Board Member"
+  },
+  {
+    "objectID": "hint.html",
+    "href": "hint.html",
+    "title": "研究提示",
+    "section": "",
+    "text": "论文写作要一口气完成，中间不要断。隔1天可以，但别隔太久。\n写作就是思考。脑海里想的再多，没写出来，等于没思考。\n提早准备。写论文的过程中你可以会遇到各种情况[例如，临时开会]，留出冗余时间，这样保证任务能完成。\n人都会犯错，但不能老犯错。论文中的错误出现过一次可以，两次也可以，三次就很难接受了。\n\n\n\n\n\n李海舰，学术论文的规范与创新，-link-\n陆铭，13个实证研究锦囊，-link-\n陆铭，如何把实证研究进行到底，-link-\n陈硕，实证研究中的语言逻辑与数理逻辑，-link-\n陆铭，中国经济：几个急需澄清的问题，-link-\n徐高，怎样用好最重要的几年学好经济学？，-link-\n聂辉华，关于大学生“大创” 项目的若干建议（2019 修订版），-link-\n姚洋，如何发表高质量的论文，-link-\n陈怡然，和导师一起赶文章死线（Deadline）的十大注意事项，-link-，-link2-\n陈硕，Year in Review：编辑推荐年度论文，-link-\n史冬波，愿意为初衷付出的代价，-link-\n江艇，在2024上外贸-YES暑期学校闭幕式上的发言，-link-\n赵达，什么样的文章是好文章，标准1，标准2，标准3，标准4，标准5\n刘瑞明 | 我们困扰已久的论文写作：一些经验和教训，，-link-"
+  },
+  {
+    "objectID": "hint.html#一般性建议",
+    "href": "hint.html#一般性建议",
+    "title": "研究提示",
+    "section": "",
+    "text": "论文写作要一口气完成，中间不要断。隔1天可以，但别隔太久。\n写作就是思考。脑海里想的再多，没写出来，等于没思考。\n提早准备。写论文的过程中你可以会遇到各种情况[例如，临时开会]，留出冗余时间，这样保证任务能完成。\n人都会犯错，但不能老犯错。论文中的错误出现过一次可以，两次也可以，三次就很难接受了。"
+  },
+  {
+    "objectID": "hint.html#推荐阅读以下资料",
+    "href": "hint.html#推荐阅读以下资料",
+    "title": "研究提示",
+    "section": "",
+    "text": "李海舰，学术论文的规范与创新，-link-\n陆铭，13个实证研究锦囊，-link-\n陆铭，如何把实证研究进行到底，-link-\n陈硕，实证研究中的语言逻辑与数理逻辑，-link-\n陆铭，中国经济：几个急需澄清的问题，-link-\n徐高，怎样用好最重要的几年学好经济学？，-link-\n聂辉华，关于大学生“大创” 项目的若干建议（2019 修订版），-link-\n姚洋，如何发表高质量的论文，-link-\n陈怡然，和导师一起赶文章死线（Deadline）的十大注意事项，-link-，-link2-\n陈硕，Year in Review：编辑推荐年度论文，-link-\n史冬波，愿意为初衷付出的代价，-link-\n江艇，在2024上外贸-YES暑期学校闭幕式上的发言，-link-\n赵达，什么样的文章是好文章，标准1，标准2，标准3，标准4，标准5\n刘瑞明 | 我们困扰已久的论文写作：一些经验和教训，，-link-"
+  },
+  {
+    "objectID": "hint.html#引言",
+    "href": "hint.html#引言",
+    "title": "研究提示",
+    "section": "引言",
+    "text": "引言\n中文论文的写作和英文论文的写作稍有差异。中文论文在开头最好引用中央文件[例如，党的二十大报告，政府工作报告，其他的文件可以不引用]的原文，增强话题的重要性。这里的原因在于，如果你的话题在中央文件找不到对应，那么这个话题可能不是重要话题。"
+  },
+  {
+    "objectID": "hint.html#写作参考资料",
+    "href": "hint.html#写作参考资料",
+    "title": "研究提示",
+    "section": "写作参考资料",
+    "text": "写作参考资料\n\n读书方法，苏轼的“八面受敌”法-link-\n如何写出完美的段落，-link-\n准备开题报告，先要搞明白要求和标准，-link-\n如何写选题（开题）报告，-link-\n如何写出完美的段落，-link-\n贾忠峰：文稿中的词语误用及编辑的应对，-link-\n得失有数，监管有道：医疗支出浪费的监管权衡，-link-\n因果推断必须警惕的坑：辛普森悖论，-link-\n主旨句，让段落清晰度倍增的秘诀，-link-"
+  },
+  {
+    "objectID": "literlist.html",
+    "href": "literlist.html",
+    "title": "经济学基础文献清单v0.1",
+    "section": "",
+    "text": "为了提升科研团队的研究能力、提高团队的研究效率、帮助成员快速了解经济学的基础知识和方法模型，我们搜集在学术界具有权威性、对经济学发展有重大影响、研究方法上有创新改进和与团队的研究方向高度相关等的几类文献，整理出经济学基础文献清单。本清单开放使用。\n文献清单侧重于产业经济学方向。具体分类如下\n此外，考虑到文献数量、研究范围、资源限制等多方面因素，本次搜集仅选择最为关键和基础的文献来构建清单，且各个类别不可避免地存在疏漏。因此，文献清单只是提供些许路引，为读者提供一点参考。清单里的文献仅展示了学术宇宙的点点星光，追求真知还需要读者亲自翱翔宇宙。\n郑明波、李睿菡\n2025年8月23日星期六"
+  },
+  {
+    "objectID": "literlist.html#指导经济学论文写作",
+    "href": "literlist.html#指导经济学论文写作",
+    "title": "经济学基础文献清单v0.1",
+    "section": "指导经济学论文写作",
+    "text": "指导经济学论文写作\n\nMcCloskey, D. (1985). Economical writing. Economic Inquiry, 23(2), 187-222.\nEdmans, A. (2023). Learnings From 1000 Rejections. Financial Management.\nWu, J., Sanchez-Diaz, I., Yang, Y., & Qu, X. (2024). Why is your paper rejected? Lessons learned from over 5000 rejected transportation papers. Communications in Transportation Research, 4, 100129.\n李海舰，学术论文的规范与创新"
+  },
+  {
+    "objectID": "literlist.html#写作比较好的论文",
+    "href": "literlist.html#写作比较好的论文",
+    "title": "经济学基础文献清单v0.1",
+    "section": "写作比较好的论文",
+    "text": "写作比较好的论文\n\n[引言] 叶青,赵良玉,刘思辰. 独立董事“政商旋转门”之考察:一项基于自然实验的研究[J]. 经济研究, 2016, 51 (06): 98-113.\n余明桂,范蕊,钟慧洁. 中国产业政策与企业技术创新[J]. 中国工业经济, 2016, (12): 5-22.\n孙薇,叶初升. 政府采购何以牵动企业创新——兼论需求侧政策“拉力”与供给侧政策“推力”的协同 [J]. 中国工业经济, 2023, (01): 95-113.\nEarle, J. S., & Gehlbach, S. (2015). The Productivity Consequences of Political Turnover: Firm‐Level Evidence from Ukraine’s Orange Revolution. American Journal of Political Science, 59(3), 708-723."
+  },
+  {
+    "objectID": "literlist.html#产业经济类",
+    "href": "literlist.html#产业经济类",
+    "title": "经济学基础文献清单v0.1",
+    "section": "产业经济类",
+    "text": "产业经济类\n\n林毅夫,巫和懋,邢亦青. “潮涌现象”与产能过剩的形成机制[J]. 经济研究, 2010, 45 (10): 4-19.\n冯根福. 双重委托代理理论:上市公司治理的另一种分析框架——兼论进一步完善中国上市公司治理的新思路[J]. 经济研究, 2004, (12): 16-25.\n冯根福,温军. 中国上市公司治理与企业技术创新关系的实证分析[J]. 中国工业经济, 2008, (07): 91-101."
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "News",
+    "section": "",
+    "text": "本页面展示团队的新闻，包括科研进展、学术会议和团队动态。"
+  },
+  {
+    "objectID": "news.html#科研进展",
+    "href": "news.html#科研进展",
+    "title": "News",
+    "section": "科研进展",
+    "text": "科研进展\n\n[2025-7-23] 祝贺团队成员祝文慧与本科生胡川夏、张嘉杰、董菡蔚在国际期刊 Bulletin of Monetary Economics and Banking 发表论文。论文题目：Does Digital Finance Move Together with Technology Innovation in China? | 论文链接\n[2025-7-9] 祝贺团队成员武丽敏在JCR二区期刊 Journal of Applied Economics 发表论文。论文题目：The impact of green finance on sustainable development: an investigation into national ESG performance | 论文链接\n[2025-4-15] 祝贺团队指导的本科生周浩在JCR一区期刊 Energy Strategy Reviews 发表论文。论文题目：Does a bank-dominated financial system benefit the development of renewable energy in developing countries? The case of China | 论文链接\n[2025-3-15] 祝贺团队成员张鑫语在中科院一区期刊 Energy 发表论文。论文题目：Digitalization and renewable energy development: Analysis based on cross-country panel data | 论文链接\n[2025-3-12] 祝贺团队成员祝文慧在国际期刊 Environment, Innovation and Management 发表论文。论文题目：Digital Finance, Green Innovation, and Economic Growth | 论文链接\n[2025-1-17] 祝贺团队指导的本科生王培嘉在国际期刊 Innovation and Green Development 发表论文。论文题目：Green finance and energy efficiency improvement: The role of green innovation and industrial upgrading | 论文链接\n[2024-12-30] 祝贺团队指导的本科生牛丙成在中科院一区期刊 Oeconomia Copernicana 发表论文。论文题目：The impact of ICT development on ESG performance: International evidence | 论文链接\n[2024-9-23] 祝贺团队成员祝文慧在JCR一区期刊 Emerging Markets Finance and Trade 发表论文。论文题目：How Does Digital Finance Stimulate Urban Innovation in China? The Perspective of Human Capital and Consumption Upgrading | 论文链接\n[2024-3-17] 祝贺团队指导的本科生周浩在国际期刊 Innovation and Green Development 发表论文。论文题目：Foreign direct investment and green innovation in China: An examination of quantile regression | 论文链接\n[2023-11-27] 祝贺团队指导的本科生牛丙成在国际期刊 Innovation and Green Development 发表论文。论文题目：Government environmental protection expenditure and national ESG performance: Global evidence | 论文链接\n[2023-10-5] 祝贺团队指导的本科生刘昱彤在国际期刊 Innovation and Green Development 发表论文。论文题目：On the linkages between digital finance and real economy in China: A cointegration analysis | 论文链接"
+  },
+  {
+    "objectID": "news.html#学术会议",
+    "href": "news.html#学术会议",
+    "title": "News",
+    "section": "学术会议",
+    "text": "学术会议\n\n[2025-10] 团队成员汪森、冯朝星参加EIM 2025 International Conference Innovating for a Greener Future 会议图片\n[2025-09] 团队成员汪森、冯朝星参加“一带一路”论坛——数字时代的能源转型国际学术会议 会议图片\n[2024-11] 团队成员郑明波参加the Pacific Rim Conference for Natural Hazard and Sustainable Development 会议图片\n[2024-10] 团队成员郑明波、刘静、祝文慧参加The International Conference on Digital Finance, Green Innovation, and Sustainable Development 会议图片\n[2024-09] 团队成员郑明波、刘静、祝文慧和本科生周浩参加International Conference on New Quality Productive Forces and Sustainable Development 会议图片\n[2023-12] 团队成员郑明波、武丽敏、张鑫语参加Digital Transformation and Sustainable Development会议 会议图片\n[2023-09] 团队成员郑明波、武丽敏、张鑫语参加经济高质量发展与数字化研讨会 会议图片"
+  },
+  {
+    "objectID": "news.html#团队动态",
+    "href": "news.html#团队动态",
+    "title": "News",
+    "section": "团队动态",
+    "text": "团队动态\n\n[2025-5-26] 祝贺团队成员张鑫语和武丽敏顺利通过硕士论文答辩！合影"
   },
   {
     "objectID": "publications.html",

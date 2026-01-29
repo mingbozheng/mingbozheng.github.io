@@ -5,14 +5,29 @@ format: html
 
 # 学术研究
 
-
+## 一般性建议
 - 论文写作要一口气完成，中间不要断。隔1天可以，但别隔太久。
 - 写作就是思考。脑海里想的再多，没写出来，等于没思考。
+- 提早准备。写论文的过程中你可以会遇到各种情况[例如，临时开会]，留出冗余时间，这样保证任务能完成。
+- 人都会犯错，但不能老犯错。论文中的错误出现过一次可以，两次也可以，三次就很难接受了。
 
 
-推荐阅读以下资料
+## 推荐阅读以下资料
 
 - 李海舰，学术论文的规范与创新，[-link-](/haijian.html)
+- 陆铭，13个实证研究锦囊，[-link-](https://mp.weixin.qq.com/s/eelpHaSqziue3tbnR9EHYw)
+- 陆铭，如何把实证研究进行到底，[-link-](https://mp.weixin.qq.com/s/9i0aZ7E_JUrXgwBMDrx3ug)
+- 陈硕，实证研究中的语言逻辑与数理逻辑，[-link-](https://mp.weixin.qq.com/s/b5R4WjxdCEr5RVuHptYzAA)
+- 陆铭，中国经济：几个急需澄清的问题，[-link-](https://mp.weixin.qq.com/s/sE4ssh74LPRss60DM2jyMg)
+- 徐高，怎样用好最重要的几年学好经济学？，[-link-](https://mp.weixin.qq.com/s/5LgLX_jeYSOsgmD9inShTw)
+- 聂辉华，关于大学生“大创” 项目的若干建议（2019 修订版），[-link-](https://mp.weixin.qq.com/s/aTqCghtCFX5ZT8i1VN5DUA)
+- 姚洋，如何发表高质量的论文，[-link-](https://mp.weixin.qq.com/s/wF-o9ElmNE3kG8uQmx_ohA)
+- 陈怡然，和导师一起赶文章死线（Deadline）的十大注意事项，[-link-](https://mp.weixin.qq.com/s/j08kd6_n0E_l_TYZ9tKp7g)，[-link2-](https://mp.weixin.qq.com/s/byEIRAsYeWcMb06IKBPAKA)
+- 陈硕，Year in Review：编辑推荐年度论文，[-link-](https://mp.weixin.qq.com/s/aKKrW61CLMRXcBaomsjaYA)
+- 史冬波，愿意为初衷付出的代价，[-link-](https://mp.weixin.qq.com/s/Qq9EuHUqNvdkh2OIgGLrNg?scene=1&click_id=45)
+- 江艇，在2024上外贸-YES暑期学校闭幕式上的发言，[-link-](https://mp.weixin.qq.com/s/XEJ_BnbFrAspwr1MOFipkw)
+- 赵达，什么样的文章是好文章，[标准1](https://mp.weixin.qq.com/s/FqgNMMD-HI0qkfrCBCMbfg)，[标准2](https://mp.weixin.qq.com/s/A1gwz0iqbo2yIYuNDF1LRg)，[标准3](https://mp.weixin.qq.com/s/h1IR2hkbt6_7yt8bkDXkHw)，[标准4](https://mp.weixin.qq.com/s/98BB6k_7OUwlQU0gTclSYQ)，[标准5](https://mp.weixin.qq.com/s/2yNwvs_KoV3oXB5Al9bfaQ)
+- 刘瑞明 | 我们困扰已久的论文写作：一些经验和教训，，[-link-](https://mp.weixin.qq.com/s/JH8igD7xpILv4dHsVjnRVw)
 
 
 # 电子邮件
@@ -28,8 +43,25 @@ format: html
 
 # 论文写作
 
-- 最重要的是贡献，也就是文章在领域的位置。始终思考文章的理论贡献。
-- 引言：
+- 最重要的是贡献，也就是文章在领域的位置。始终思考文章的 **理论** 贡献。学术论文大多都是偏理论的，并不能直接应用于解决某一个问题，所以论文到底从哪个方面拓展了已有文献，有什么新意，是所有编辑、审稿人和读者关心的话题。
+- 写作的顺序，可以按照 研究设计-实证分析-结论-理论-引言-参考文献-调整格式 的步骤完成。这样写有两个好处。首先，研究设计和实证分析相对容易写，引言最难写，这样做可以先易后难，逐步进入写作状态，降低自身对于写作本身的抵抗情绪。写作很费人精力，如果先写引言，那么可能迟迟不能动笔，导致后面写作压力很大。其次，写作的过程就是思考的过程，在写作的过程中作者可能会有新的思路和想法，这些思路和想法最后能够融入到引言的写作中。
+
+
+## 引言
+中文论文的写作和英文论文的写作稍有差异。中文论文在开头最好引用中央文件[例如，党的二十大报告，政府工作报告，其他的文件可以不引用]的**原文**，增强话题的重要性。这里的原因在于，如果你的话题在中央文件找不到对应，那么这个话题可能不是重要话题。
+
+
+## 写作参考资料
+- 读书方法，苏轼的“八面受敌”法[-link-](https://mp.weixin.qq.com/s/iGk0fcp7Wa4es0oWToSpWw)
+- 如何写出完美的段落，[-link-](https://mp.weixin.qq.com/s/uhqH8U0lueTpNAf4Os5Lxg)
+- 准备开题报告，先要搞明白要求和标准，[-link-](https://mp.weixin.qq.com/s/ja9yJz_5YW4aVpUxKBsfbQ)
+- 如何写选题（开题）报告，[-link-](https://mp.weixin.qq.com/s/W7rveSwwW4saSVpOfOaoyA)
+- 如何写出完美的段落，[-link-](https://mp.weixin.qq.com/s/uhqH8U0lueTpNAf4Os5Lxg)
+- 贾忠峰：文稿中的词语误用及编辑的应对，[-link-](https://mp.weixin.qq.com/s/6Pfg8DU0FI7RQxiEGQA1Aw)
+- 得失有数，监管有道：医疗支出浪费的监管权衡，[-link-](https://mp.weixin.qq.com/s/fvP1i6FzBPMDwN6Pgac5Fg)
+- 因果推断必须警惕的坑：辛普森悖论，[-link-](https://mp.weixin.qq.com/s/B3eEQgTDHVR_gCsc9TkmyA)
+- 主旨句，让段落清晰度倍增的秘诀，[-link-](https://mp.weixin.qq.com/s/WmcVjjvyREf3Y2Zr5wPoIQ)
+
 
 # 常用数据索引
 
@@ -38,17 +70,36 @@ format: html
   - 能源环境：[IEA](https://www.iea.org/data-and-statistics), [BP](https://www.energyinst.org/statistical-review), [EPI](https://epi.yale.edu/),[IRNEA](https://www.irena.org/Data)
   - 政治数据：[DPI](https://www.iadb.org/en/knowledge-resources/research-idb/research-datasets/database-political-institutions), [Polity IV](https://www.systemicpeace.org/polityproject.html),
   - 贸易金融：[KOF](https://kof.ethz.ch/en/forecasts-and-indicators/indicators/kof-globalisation-index.html), [IMF](https://www.systemicpeace.org/polityproject.html)
+
+- 网页推荐
+  - 思谋学术：[-link-](https://ac.scmor.com/)
   
+- 关于研究方法和数据规范
+  - 经管类编辑需了解的A股非金融行业上市公司基本面数据信息，[-link-](https://mp.weixin.qq.com/s/2DfyfGaPNG5Gf1a3uFWVYg)
+  - 经济学》（季刊）关于计量分析中的相关表述说明，[-link-](https://mp.weixin.qq.com/s/b9U4BhMBC7HTU1MliJjp-A)
+
 # 文献推荐
 
+- 刘西川，向准备读博朋友推荐五组文献[-link-](https://mp.weixin.qq.com/s/BC9fY7Gh8Ihkl2JwyRj6Rw)
+- 赵达，推荐给学生的reading list[-link-](https://mp.weixin.qq.com/s/-cOdvGKTgSqbq96row17-A)
 
-- 刘西川，向准备读博朋友推荐五组文献（https://mp.weixin.qq.com/s/BC9fY7Gh8Ihkl2JwyRj6Rw）
-- 赵达，推荐给学生的reading list(https://mp.weixin.qq.com/s/-cOdvGKTgSqbq96row17-A)
 
 # 微信公众号
 
 - 荆山玉
-- 
+- 故事里的经济学，中国人民大学 刘瑞明
+- 来谈经济，复旦大学 寇宗来
 
+# 一段话
+
+“真正重要的东西，用眼睛是无法看见的” 《小王子》中那个小狐狸的话，说的一点没错。在这方面，读再多的paper，参加再多的seminar，认识再多的大牛，其实用处都不太大。必须用心体会，这才是我们常说training的真谛。
+
+——复旦大学 陈硕
+
+# 软件学习资料
+
+- Stata：[-PDF-](/images/Stata basic.pdf)
+- python：[-link-](https://pyecon.org/lecture/)
 
 未完待续
+

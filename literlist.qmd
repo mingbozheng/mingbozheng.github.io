@@ -34,7 +34,14 @@ editor:
 - Xu, C. (2011). The fundamental institutions of China's reforms and development. Journal of Economic Literature, 49(4), 1076-1151.
 - Zhu, X. (2012). Understanding China's growth: Past, present, and future. Journal of Economic Perspectives, 26(4), 103-124.
 - 周黎安. 中国地方官员的晋升锦标赛模式研究[J]. 经济研究, 2007, (07): 36-50.
-  
+
+
+# 有趣的论文
+- Mu, Y., Rubin, E., & Zou, E. Y. (2024). What's Missing in Environmental Self-Monitoring: Evidence from Strategic Shutdowns of Pollution Monitors. Review of Economics and Statistics, 1-45.
+- 李翀宇,韩超.土地低价扭曲的环境后果：政策偏向的弱激励效应[J].数量经济技术经济研究,2026,(1):188-215.
+
+
+
 # 写作类
 ## 指导经济学论文写作
 -	McCloskey, D. (1985). Economical writing. Economic Inquiry, 23(2), 187-222.
