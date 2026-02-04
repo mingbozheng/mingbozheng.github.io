@@ -7,7 +7,7 @@ editor:
 
 ## 郑明波个人简介
 
-郑明波，长安大学经管学院副教授，硕士生导师，主要研究领域涵盖技术创新、环境经济与数字经济。累计在《中国工业经济》《Energy Economics》《Business Strategy and the Environment》等期刊发表学术论文30余篇。担任《Economic Modelling》《Emerging Markets Finance and Trade》《Land Use Policy》《Energy Strategy Reviews》《Financial Innovation》等期刊匿名审稿人。主持或参与国家自然科学基金、国家社会科学基金、教育部人文社会科学研究等多项国家级及省部级科研课题。
+郑明波，长安大学经管学院副教授，硕士生导师，主要研究领域涵盖技术创新、环境经济与数字经济。累计在《中国工业经济》《Energy Economics》《Business Strategy and the Environment》等期刊发表学术论文30余篇。担任《Energy Economics》《Economic Modelling》《Emerging Markets Finance and Trade》《Land Use Policy》《Energy Strategy Reviews》《Financial Innovation》等期刊匿名审稿人。主持或参与国家自然科学基金、国家社会科学基金、教育部人文社会科学研究等多项国家级及省部级科研课题。
 
 - 邮箱： mbzheng@chd.edu.cn
 - 地址：陕西省西安市碑林区二环南路中段 126 号，长安大学经管学院 (邮编：710061)
@@ -66,7 +66,7 @@ editor:
 - Chen, Y. E., Li, C., Chang, C. P., & Zheng, M. * (2021). Identifying the influence of natural disasters on technological innovation. Economic Analysis and Policy, 70, 22-36.
 - Chang, C. P., Feng, G. F., & Zheng, M. * (2021). Government fighting pandemic, stock market return, and COVID-19 virus outbreak. Emerging Markets Finance and Trade, 57(8), 2389-2406.
 - Wang, W., Sun, Q., & Zheng, M. * (2021). Marketization level, fiscal input, and rural commercial bank performance. Emerging Markets Finance and Trade, 57(14), 4105-4120.
-- Li, S., Liu, C., Zheng, M., Chang, C. P., & Fu, Q. (2021). Financial Market Friction and Corporate Restructuring Activities in China. Emerging Markets Finance and Trade, 57- (14), 4089-4104.
+- Li, S., Liu, C., Zheng, M., Chang, C. P., & Fu, Q. (2021). Financial Market Friction and Corporate Restructuring Activities in China. Emerging Markets Finance and Trade, 57-(14), 4089-4104.
 - Li, B., Chang, C. P., & Zheng, M. * (2021). Assessment of innovation and foreign direct investment: An investigation of OECD countries. Pacific Economic Review, 26(3), 392-403.
 - Wen, J., Zheng, M., Feng, G. F., Chen, S. W., & Chang, C. P. (2020). Corruption and innovation: linear and nonlinear investigations of OECD countries. The Singapore Economic Review, 65(01), 103-129.
 - Zheng, M., Feng, G. F., Wen, J., & Chang, C. P. (2020). The influence of FDI on domestic innovation: an investigation using structural breaks. Prague Economic Papers, 29(4), 403-423.
@@ -74,7 +74,7 @@ editor:
 - Zheng, M., Feng, G. F., Feng, S., & Yuan, X. (2019). The road to innovation vs. the role of globalization: A dynamic quantile investigation. Economic Modelling, 83, 65-83.
 - Zheng, M., Chen, Y. E., Feng, G. F., Wen, J., & Chang, C. P. (2019). Divorce and housing price in 31 provinces of China. Bulletin of Monetary Economics and Banking, 21(2), 161-176.
 - Chang, C. P., Wen, J., Zheng, M., Dong, M., & Hao, Y. (2018). Is higher government efficiency conducive to improving energy use efficiency? Evidence from OECD countries. Economic Modelling, 72, 65-77.
-- Liu, Y., Hu, X., Zhang, Q., & Zheng, M. (2017). Improving agricultural water use efficiency: a quantitative study of Zhangye city using the static CGE model with a CES water−land resources account. Sustainability, 9(2), 308. 
+- Liu, Y., Hu, X., Zhang, Q., & Zheng, M. (2017). Improving agricultural water use efficiency: a quantitative study of Zhangye city using the static CGE model with a CES water− land resources account. Sustainability, 9(2), 308. 
 - 于海云 & 郑明波. (2025). 科技金融会激励中国企业进行绿色创新吗?——基于“促进科技和金融结合试点”政策的证据. 科学学研究, 43 (06), 1237-1249.
 - 李旭东, 郑明波 &  张森. (2024). 竞争政策对企业劳动收入份额的影响机制研究. 软科学, 38 (05), 126-131.
 - 丰若旸,冯根福, 郑明波.(2022).地区战略性新兴产业政策与资本市场资源配置对地区经济增长的影响研究. 西安交通大学学报(社会科学版)(06),64-76.
@@ -119,15 +119,21 @@ editor:
 15.	第三届“武汉-西安双城金融学论坛(2025年夏季)”，2025.6，武汉
 16. Conference on New Trends in Emerging Financial Markets，2025.12，武汉
 
+## 学术奖励
+1.	陕西省第十五次哲学社会科学优秀成果奖，一等奖，陕西省人民政府，参与人排序2/4
+2.	陕西省优秀博士学位论文，省级，陕西省教育厅/陕西省学位委员会，参与人排序1/1
+
+
 ## 审稿人
 
 Journal of Open Innovation: Technology, Market, and Complexity, Journal of Environmental Planning and Management, Economic Analysis and Policy, Journal of Environmental Management, British Accounting Review, Journal of International Financial Markets, Institutions & Money, Socio-Economic Planning Sciences, Economic Modelling, Emerging Markets Finance and Trade, Environmental Science and Pollution Research, Land Use Policy, Energy Strategy Reviews, Financial Innovation, Fisheries Research, Innovation & Green Development, Energy Economics, Renewable Energy.
 
 ## 编辑或特刊编辑
-1.	Environmental governance and innovation, Environmental Science and Pollution Research, Guest Editor with Chun-Ping Chang and Jun Wen
-2.	Sustainable Development, Emerging Markets Finance and Trade, Guest Editor with Chun-Ping Chang and Hai-Jie Wang
-3.	Political Economy and Green Innovation, Innovation & Green Development, Guest Editor with Qiang Fu
-4.	*Environment, Innovation and Management*, Editor
-5.	Humanities & Social Sciences Communications, the Editorial Board Member
+1.	February 2020-September 2020, Environmental governance and innovation, *Environmental Science and Pollution Research*, Guest Editor with Chun-Ping Chang and Jun Wen
+2.	December 2022-May 2023, Sustainable Development, *Emerging Markets Finance and Trade*, Guest Editor with Chun-Ping Chang and Hai-Jie Wang
+3.	March 2023- July 2023, Political Economy and Green Innovation, *Innovation & Green Development*, Guest Editor with Qiang Fu
+4.	Januray 2025-present, *Environment, Innovation and Management*, Editor
+5.	August 2025-present, *Humanities & Social Sciences Communications*, the Editorial Board Member
 
+Updated at Janarury 29, 2026
 
