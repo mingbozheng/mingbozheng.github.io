@@ -15,7 +15,7 @@ editor:
 
 ## 教育和工作背景
 
-- 2025.01 – Present, 长安大学 经管学院 经济系 副教授
+- 2024.12 – Present, 长安大学 经管学院 经济系 副教授
 - 2021.06 – 2024.12, 长安大学 经管学院 经济系 讲师
 - 2016.03 – 2020.12, 西安交通大学 经金学院 应用经济学 博士
 - 2014.09 – 2016.02, 西安交通大学 经金学院 产业经济学 硕士
@@ -33,6 +33,8 @@ editor:
 
 ## 论文
 
+- Zheng, M., Wang, S., Du, Q., & Zhang, X. (2026). Digital dividends across space: How the digital economy fuels green innovation. Asia & the Pacific Policy Studies, 13(1), e70084. https://doi.org/10.1002/app5.70084
+- Zheng, M., Liu, J., & Chang, C.-P. (2026). Does perceived economic policy uncertainty restrict green technology development in China? Policy implications for global green economy transformation. Oeconomia Copernicana. https://doi.org/10.24136/oc.3540
 - Zheng, M., Wu, L., Feng, G. F., & Chang, C. P. (2025). The impact of green finance on sustainable development: an investigation into national ESG performance. Journal of Applied Economics, 28(1), 2528672.
 - Zheng, M., & Zhou, H. (2025). Does a bank-dominated financial system benefit the development of renewable energy in developing countries? The case of China. Energy Strategy Reviews, 59, 101715.
 - Zheng, M., & Zhang, X. (2025). Digitalization and renewable energy development: Analysis based on cross-country panel data. Energy, 319, 135077.
@@ -75,6 +77,7 @@ editor:
 - Zheng, M., Chen, Y. E., Feng, G. F., Wen, J., & Chang, C. P. (2019). Divorce and housing price in 31 provinces of China. Bulletin of Monetary Economics and Banking, 21(2), 161-176.
 - Chang, C. P., Wen, J., Zheng, M., Dong, M., & Hao, Y. (2018). Is higher government efficiency conducive to improving energy use efficiency? Evidence from OECD countries. Economic Modelling, 72, 65-77.
 - Liu, Y., Hu, X., Zhang, Q., & Zheng, M. (2017). Improving agricultural water use efficiency: a quantitative study of Zhangye city using the static CGE model with a CES water− land resources account. Sustainability, 9(2), 308. 
+- 江平川 & 郑明波. (2026). 政策驱动、数据要素集聚与企业关键数字技术创新. 当代经济科学, 48 (2), 58-71.
 - 于海云 & 郑明波. (2025). 科技金融会激励中国企业进行绿色创新吗?——基于“促进科技和金融结合试点”政策的证据. 科学学研究, 43 (06), 1237-1249.
 - 李旭东, 郑明波 &  张森. (2024). 竞争政策对企业劳动收入份额的影响机制研究. 软科学, 38 (05), 126-131.
 - 丰若旸,冯根福, 郑明波.(2022).地区战略性新兴产业政策与资本市场资源配置对地区经济增长的影响研究. 西安交通大学学报(社会科学版)(06),64-76.
@@ -135,5 +138,5 @@ Journal of Open Innovation: Technology, Market, and Complexity, Journal of Envir
 4.	Januray 2025-present, *Environment, Innovation and Management*, Editor
 5.	August 2025-present, *Humanities & Social Sciences Communications*, the Editorial Board Member
 
-Updated at Janarury 29, 2026
+Updated at June 24, 2026
 

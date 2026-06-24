@@ -10,6 +10,11 @@ format: html
 - 写作就是思考。脑海里想的再多，没写出来，等于没思考。
 - 提早准备。写论文的过程中你可以会遇到各种情况[例如，临时开会]，留出冗余时间，这样保证任务能完成。
 - 人都会犯错，但不能老犯错。论文中的错误出现过一次可以，两次也可以，三次就很难接受了。
+- 写论文着重学理阐释。学术研究始终还是偏理论的，不直接服务于实践。理论创新要解释现有研究不能解释的问题。
+- 研究要关注现实问题。例如人口红利，理论上这个问题比较小，但现实中很重要。
+- 尝试跨学科交叉，寻找经济规律。
+- 在选题的时候，找几个案例，非常典型的案例，争取说明问题重要、现象重大。
+- 自变量更重要。最好能找到反直觉的发现。
 
 
 ## 推荐阅读以下资料
@@ -27,7 +32,7 @@ format: html
 - 史冬波，愿意为初衷付出的代价，[-link-](https://mp.weixin.qq.com/s/Qq9EuHUqNvdkh2OIgGLrNg?scene=1&click_id=45)
 - 江艇，在2024上外贸-YES暑期学校闭幕式上的发言，[-link-](https://mp.weixin.qq.com/s/XEJ_BnbFrAspwr1MOFipkw)
 - 赵达，什么样的文章是好文章，[标准1](https://mp.weixin.qq.com/s/FqgNMMD-HI0qkfrCBCMbfg)，[标准2](https://mp.weixin.qq.com/s/A1gwz0iqbo2yIYuNDF1LRg)，[标准3](https://mp.weixin.qq.com/s/h1IR2hkbt6_7yt8bkDXkHw)，[标准4](https://mp.weixin.qq.com/s/98BB6k_7OUwlQU0gTclSYQ)，[标准5](https://mp.weixin.qq.com/s/2yNwvs_KoV3oXB5Al9bfaQ)
-- 刘瑞明 | 我们困扰已久的论文写作：一些经验和教训，，[-link-](https://mp.weixin.qq.com/s/JH8igD7xpILv4dHsVjnRVw)
+- 刘瑞明 | 我们困扰已久的论文写作：一些经验和教训，[-link-](https://mp.weixin.qq.com/s/JH8igD7xpILv4dHsVjnRVw)
 
 
 # 电子邮件
